@@ -1,0 +1,2421 @@
+2021-05-11 18:44:06:446 [32minfo[39m: [32mSERVER[39m
+2021-05-11 18:44:06:446 [32minfo[39m: [32mDatabase[39m
+2021-05-11 18:59:11:5911 [32minfo[39m: [32mSERVER[39m
+2021-05-11 18:59:11:5911 [32minfo[39m: [32msuccessfully connected to database[39m
+2021-05-11 19:01:24 :124 [32minfo[39m: [32mSERVER[39m
+2021-05-11 19:01:24 :124 [32minfo[39m: [32msuccessfully connected to database[39m
+2021-05-11 19:02:01 [32minfo[39m: [32mSERVER[39m
+2021-05-11 19:02:01 [32minfo[39m: [32msuccessfully connected to database[39m
+2021-05-11 19:05:22 [32minfo[39m: [32mSERVER[39m
+2021-05-11 19:05:22 [32minfo[39m: [32msuccessfully connected to database[39m
+2021-05-11 19:07:41 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:07:41 [32minfo[39m: [32msuccessfully connected to database[39m
+2021-05-11 19:09:01 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:09:01 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:09:37 [31merror[39m: [31m404handler[39m
+2021-05-11 19:14:19 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:14:20 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:17:16 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:17:16 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:18:05 [31merror[39m: [31mErrorHandler[39m
+2021-05-11 19:19:33 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:19:33 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:22:04 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:22:04 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:22:32 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:22:32 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:22:43 [32minfo[39m: [32mMongoose default connection disconnected[39m
+2021-05-11 19:24:02 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:24:02 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:24:36 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:24:36 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:26:42 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:26:43 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:26:48 [37mdebug[39m: [37mbefore[39m
+2021-05-11 19:32:52 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:32:52 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:33:02 [37mdebug[39m: [37mbefore[39m
+2021-05-11 19:33:04 [37mdebug[39m: [37mbefore[39m
+2021-05-11 19:33:53 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:33:53 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:33:58 [37mdebug[39m: [37m[37mdebug[37m[39m
+2021-05-11 19:34:55 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:34:55 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:34:59 [37mdebug[39m: [37mbefore[39m
+2021-05-11 19:35:33 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:35:33 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:42:08 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:42:08 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:43:22 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:43:22 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:44:10 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:44:10 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:44:45 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:44:45 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:45:18 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:45:18 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:47:31 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:47:31 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:55:41 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:55:41 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:56:28 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:56:28 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:57:25 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:57:25 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 19:59:33 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 19:59:33 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 20:00:00 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 20:00:01 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 20:07:03 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 20:07:03 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 20:08:06 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 20:08:06 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 21:58:23 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 21:58:23 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:01:42 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:01:42 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:02:23 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:02:23 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:02:44 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:02:44 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:11:07 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:11:07 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:13:44 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:13:44 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:15:57 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:15:57 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:16:07 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2021-05-11 22:16:34 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:16:34 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:18:38 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:18:38 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:27:47 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:27:47 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:28:38 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:28:38 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:29:17 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:29:17 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:29:42 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:29:42 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:37:46 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:37:46 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-11 22:38:48 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-11 22:38:48 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-14 14:09:57 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-14 14:09:57 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-14 14:14:28 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-14 14:14:28 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-15 18:50:12 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-15 18:50:12 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-15 18:51:17 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-15 18:51:17 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-15 18:51:51 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-15 18:51:51 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-15 18:52:52 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-15 18:52:52 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-15 18:53:41 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-15 18:53:41 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-15 22:04:33 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-15 22:04:33 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-15 22:17:13 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-15 22:17:13 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-15 22:19:45 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-15 22:19:46 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-15 22:19:53 [35mhttp[39m: [35mPOST /register 401 79 - 78.681 ms[39m
+[35m[39m
+2021-05-15 22:20:42 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2021-05-16 18:53:20 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-16 18:53:20 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-16 18:53:57 [35mhttp[39m: [35mPOST /login 401 178 - 10.358 ms[39m
+[35m[39m
+2021-05-16 18:54:56 [35mhttp[39m: [35mPOST /login 200 359 - 189.552 ms[39m
+[35m[39m
+2021-05-17 21:27:05 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-17 21:27:05 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-17 21:28:31 [35mhttp[39m: [35mGET /admin/usersData 401 82 - 9.242 ms[39m
+[35m[39m
+2021-05-17 21:30:10 [35mhttp[39m: [35mPOST /login 200 359 - 300.699 ms[39m
+[35m[39m
+2021-05-17 21:32:30 [35mhttp[39m: [35mGET /admin/usersData 401 82 - 1.025 ms[39m
+[35m[39m
+2021-05-17 21:33:04 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2021-05-17 21:36:00 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-17 21:36:00 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-17 21:42:41 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-17 21:42:41 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-17 21:44:25 [35mhttp[39m: [35mGET /admin/usersData 401 82 - 11.973 ms[39m
+[35m[39m
+2021-05-17 21:45:00 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-17 21:45:00 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-17 21:45:29 [35mhttp[39m: [35mGET /admin/usersData 401 82 - 16.838 ms[39m
+[35m[39m
+2021-05-17 21:48:39 [35mhttp[39m: [35mPOST /login 401 178 - 3.347 ms[39m
+[35m[39m
+2021-05-17 21:48:56 [35mhttp[39m: [35mGET /admin/usersData 401 85 - 3.202 ms[39m
+[35m[39m
+2021-05-17 21:50:22 [35mhttp[39m: [35mPOST /login 200 359 - 229.811 ms[39m
+[35m[39m
+2021-05-17 21:51:40 [35mhttp[39m: [35mPOST /admin/usersData 401 85 - 1.292 ms[39m
+[35m[39m
+2021-05-17 21:52:48 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-17 21:52:48 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-19 22:02:55 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-19 22:02:55 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-19 22:03:15 [35mhttp[39m: [35mGET / 404 75 - 9.220 ms[39m
+[35m[39m
+2021-05-19 22:03:21 [35mhttp[39m: [35mGET /login 404 75 - 2.427 ms[39m
+[35m[39m
+2021-05-19 22:03:32 [35mhttp[39m: [35mPOST /login 401 178 - 4.811 ms[39m
+[35m[39m
+2021-05-19 22:06:29 [35mhttp[39m: [35mPOST /login 401 178 - 1.469 ms[39m
+[35m[39m
+2021-05-19 22:07:22 [35mhttp[39m: [35mPOST /login 401 178 - 1.064 ms[39m
+[35m[39m
+2021-05-19 22:07:36 [35mhttp[39m: [35mPOST /login 401 178 - 0.882 ms[39m
+[35m[39m
+2021-05-19 22:08:04 [35mhttp[39m: [35mPOST /login 200 359 - 391.027 ms[39m
+[35m[39m
+2021-05-19 22:16:00 [35mhttp[39m: [35mGET /login 404 75 - 0.690 ms[39m
+[35m[39m
+2021-05-19 22:16:06 [35mhttp[39m: [35mPOST /login 401 178 - 0.764 ms[39m
+[35m[39m
+2021-05-19 22:20:17 [35mhttp[39m: [35mPOST /login 401 178 - 3.672 ms[39m
+[35m[39m
+2021-05-19 22:20:26 [35mhttp[39m: [35mPOST /login 200 359 - 140.720 ms[39m
+[35m[39m
+2021-05-19 22:24:15 [35mhttp[39m: [35mPOST /admin/usersData 401 85 - 80.358 ms[39m
+[35m[39m
+2021-05-19 22:25:52 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-19 22:25:52 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-19 22:26:36 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-19 22:26:37 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-19 22:26:48 [35mhttp[39m: [35mPOST /admin/usersData 401 85 - 101.133 ms[39m
+[35m[39m
+2021-05-19 22:27:41 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-19 22:27:42 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-19 22:27:55 [35mhttp[39m: [35mPOST /admin/usersData 401 85 - 77.052 ms[39m
+[35m[39m
+2021-05-19 22:29:05 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-19 22:29:05 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-19 22:30:10 [35mhttp[39m: [35mPOST /admin/usersData 401 85 - 82.280 ms[39m
+[35m[39m
+2021-05-19 22:30:56 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-19 22:30:56 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-19 22:31:15 [35mhttp[39m: [35mPOST /admin/usersData 401 85 - 80.847 ms[39m
+[35m[39m
+2021-05-19 22:32:09 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-19 22:32:09 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-19 22:32:19 [35mhttp[39m: [35mPOST /admin/usersData 403 97 - 94.041 ms[39m
+[35m[39m
+2021-05-21 21:50:14 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-21 21:50:14 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-21 21:50:49 [35mhttp[39m: [35mGET /login 404 75 - 20.992 ms[39m
+[35m[39m
+2021-05-21 21:50:54 [35mhttp[39m: [35mPOST /login 401 178 - 3.041 ms[39m
+[35m[39m
+2021-05-21 21:54:08 [35mhttp[39m: [35mPOST /login 200 359 - 402.580 ms[39m
+[35m[39m
+2021-05-21 21:58:20 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2021-05-22 21:08:48 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-22 21:08:48 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-22 21:10:46 [35mhttp[39m: [35mPOST /login 401 178 - 11.539 ms[39m
+[35m[39m
+2021-05-22 21:11:36 [35mhttp[39m: [35mPOST /login 200 359 - 233.430 ms[39m
+[35m[39m
+2021-05-22 21:13:18 [35mhttp[39m: [35mPOST /admin/usersData 401 82 - 4.916 ms[39m
+[35m[39m
+2021-05-22 21:15:44 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-22 21:15:44 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-22 21:16:36 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-22 21:16:36 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-22 21:19:35 [35mhttp[39m: [35mPOST /login 401 91 - 62.123 ms[39m
+[35m[39m
+2021-05-22 21:20:30 [35mhttp[39m: [35mPOST /login 200 359 - 160.396 ms[39m
+[35m[39m
+2021-05-22 21:22:15 [35mhttp[39m: [35mPOST /admin/usersData 403 97 - 107.639 ms[39m
+[35m[39m
+2021-05-22 21:24:30 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-22 21:24:30 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-22 21:24:55 [35mhttp[39m: [35mPOST /admin/usersData 404 75 - 91.947 ms[39m
+[35m[39m
+2021-05-22 21:25:05 [35mhttp[39m: [35mPOST /admin/usersData 404 75 - 14.476 ms[39m
+[35m[39m
+2021-05-22 21:25:32 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-22 21:25:32 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-22 21:27:50 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-22 21:27:50 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-22 21:29:35 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-22 21:29:35 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-22 21:31:06 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-22 21:31:06 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-22 21:31:16 [35mhttp[39m: [35mPOST /login 401 178 - 11.507 ms[39m
+[35m[39m
+2021-05-22 21:31:20 [35mhttp[39m: [35mPOST /admin 404 75 - 88.957 ms[39m
+[35m[39m
+2021-05-22 21:31:26 [35mhttp[39m: [35mPOST /admin/usersData 404 75 - 16.861 ms[39m
+[35m[39m
+2021-05-22 21:32:31 [35mhttp[39m: [35mGET /admin/usersData 200 431 - 36.369 ms[39m
+[35m[39m
+2021-05-22 21:33:57 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-22 21:33:57 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-22 21:37:47 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2021-05-27 20:06:26 [32minfo[39m: [32mListening on port 5000[39m
+2021-05-27 20:06:26 [32minfo[39m: [32mSuccessfully connected to database[39m
+2021-05-27 20:06:28 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-11-16 22:27:45 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-16 22:28:01 [35mhttp[39m: [35mGET / 404 75 - 2.669 ms[39m
+[35m[39m
+2022-11-16 22:28:01 [35mhttp[39m: [35mGET /favicon.ico 404 75 - 0.461 ms[39m
+[35m[39m
+2022-11-16 22:28:13 [35mhttp[39m: [35mGET /login 404 75 - 1.131 ms[39m
+[35m[39m
+2022-11-16 22:28:15 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-11-16 22:28:15 [31merror[39m: [31mError when connecting to database[39m
+2022-11-16 22:28:15 [33mwarn[39m: [33mMongoose default connection error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017[39m
+2022-11-16 22:41:15 [35mhttp[39m: [35mGET /login 404 75 - 1.069 ms[39m
+[35m[39m
+2022-11-16 22:56:53 [33mwarn[39m: [33mMongoose default connection disconnected through app termination[39m
+2022-11-16 23:02:18 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-16 23:02:18 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-16 23:05:40 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-16 23:05:40 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-16 23:05:56 [35mhttp[39m: [35mGET /test - - - - ms[39m
+[35m[39m
+2022-11-16 23:05:56 [35mhttp[39m: [35mGET / 404 75 - 2.319 ms[39m
+[35m[39m
+2022-11-16 23:07:39 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-16 23:07:39 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-16 23:07:39 [35mhttp[39m: [35mGET /test 200 12 - 4.509 ms[39m
+[35m[39m
+2022-11-16 23:08:00 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-16 23:08:00 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-16 23:08:04 [35mhttp[39m: [35mGET /test 200 23 - 5.025 ms[39m
+[35m[39m
+2022-11-17 00:11:54 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-11-17 00:24:44 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-17 00:24:44 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-17 00:25:55 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-17 00:25:55 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-17 00:29:35 [35mhttp[39m: [35mPOST /register 200 85 - 435.730 ms[39m
+[35m[39m
+2022-11-17 00:32:35 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-11-21 16:45:15 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 16:45:15 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 16:59:53 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 16:59:53 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 17:04:19 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 17:04:19 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 17:26:55 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 17:26:55 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 17:29:27 [35mhttp[39m: [35mGET /test 304 - - 6.485 ms[39m
+[35m[39m
+2022-11-21 17:29:29 [35mhttp[39m: [35mGET /favicon.ico 404 75 - 0.769 ms[39m
+[35m[39m
+2022-11-21 17:31:33 [35mhttp[39m: [35mGET / 404 75 - 1.078 ms[39m
+[35m[39m
+2022-11-21 17:32:23 [35mhttp[39m: [35mGET /test 304 - - 0.487 ms[39m
+[35m[39m
+2022-11-21 17:38:05 [35mhttp[39m: [35mPOST /register 401 79 - 299.259 ms[39m
+[35m[39m
+2022-11-21 17:44:19 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 17:44:19 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 17:44:35 [35mhttp[39m: [35mPOST /register 200 85 - 206.406 ms[39m
+[35m[39m
+2022-11-21 17:46:59 [35mhttp[39m: [35mPOST /login 200 361 - 90.618 ms[39m
+[35m[39m
+2022-11-21 20:20:08 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 20:20:08 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 21:51:31 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 21:51:31 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 21:55:28 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 21:55:28 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 21:56:04 [35mhttp[39m: [35mPOST /login 200 361 - 193.518 ms[39m
+[35m[39m
+2022-11-21 22:19:19 [35mhttp[39m: [35mOPTIONS /login 200 4 - 2.212 ms[39m
+[35m[39m
+2022-11-21 22:19:19 [35mhttp[39m: [35mOPTIONS /login 200 4 - 0.562 ms[39m
+[35m[39m
+2022-11-21 22:21:23 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 22:21:23 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 22:23:36 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 22:23:36 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 22:23:41 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 22:23:41 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 22:24:23 [35mhttp[39m: [35mOPTIONS /login 204 0 - 1.617 ms[39m
+[35m[39m
+2022-11-21 22:24:23 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.184 ms[39m
+[35m[39m
+2022-11-21 22:24:23 [35mhttp[39m: [35mPOST /login 200 361 - 69.710 ms[39m
+[35m[39m
+2022-11-21 22:24:23 [35mhttp[39m: [35mPOST /login 200 361 - 79.426 ms[39m
+[35m[39m
+2022-11-21 22:24:36 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.144 ms[39m
+[35m[39m
+2022-11-21 22:24:36 [35mhttp[39m: [35mPOST /login 200 361 - 58.973 ms[39m
+[35m[39m
+2022-11-21 22:24:36 [35mhttp[39m: [35mPOST /login 200 361 - 58.319 ms[39m
+[35m[39m
+2022-11-21 22:27:33 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-21 22:27:33 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-21 22:30:05 [35mhttp[39m: [35mOPTIONS /login 204 0 - 1.232 ms[39m
+[35m[39m
+2022-11-21 22:30:05 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.223 ms[39m
+[35m[39m
+2022-11-21 22:30:05 [35mhttp[39m: [35mPOST /login 200 361 - 86.635 ms[39m
+[35m[39m
+2022-11-21 22:30:05 [35mhttp[39m: [35mPOST /login 200 361 - 75.962 ms[39m
+[35m[39m
+2022-11-21 22:30:12 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.152 ms[39m
+[35m[39m
+2022-11-21 22:30:12 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.204 ms[39m
+[35m[39m
+2022-11-21 22:30:13 [35mhttp[39m: [35mPOST /login 200 361 - 59.613 ms[39m
+[35m[39m
+2022-11-21 22:30:13 [35mhttp[39m: [35mPOST /login 200 361 - 59.204 ms[39m
+[35m[39m
+2022-11-21 22:32:20 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.126 ms[39m
+[35m[39m
+2022-11-21 22:32:20 [35mhttp[39m: [35mPOST /login 401 73 - 63.045 ms[39m
+[35m[39m
+2022-11-21 22:32:20 [35mhttp[39m: [35mPOST /login 401 73 - 65.310 ms[39m
+[35m[39m
+2022-11-21 22:32:39 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.147 ms[39m
+[35m[39m
+2022-11-21 22:32:39 [35mhttp[39m: [35mPOST /login 401 73 - 58.711 ms[39m
+[35m[39m
+2022-11-21 22:32:39 [35mhttp[39m: [35mPOST /login 401 73 - 62.701 ms[39m
+[35m[39m
+2022-11-21 22:34:07 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.224 ms[39m
+[35m[39m
+2022-11-21 22:34:07 [35mhttp[39m: [35mPOST /login 401 73 - 68.487 ms[39m
+[35m[39m
+2022-11-21 22:34:07 [35mhttp[39m: [35mPOST /login 401 73 - 67.800 ms[39m
+[35m[39m
+2022-11-21 22:34:34 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.245 ms[39m
+[35m[39m
+2022-11-21 22:34:34 [35mhttp[39m: [35mPOST /login 401 73 - 73.413 ms[39m
+[35m[39m
+2022-11-21 22:34:34 [35mhttp[39m: [35mPOST /login 401 73 - 76.983 ms[39m
+[35m[39m
+2022-11-21 22:38:18 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.169 ms[39m
+[35m[39m
+2022-11-21 22:38:18 [35mhttp[39m: [35mPOST /login 401 73 - 66.344 ms[39m
+[35m[39m
+2022-11-21 22:38:18 [35mhttp[39m: [35mPOST /login 401 73 - 69.055 ms[39m
+[35m[39m
+2022-11-21 22:39:47 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.173 ms[39m
+[35m[39m
+2022-11-21 22:39:47 [35mhttp[39m: [35mPOST /login 401 73 - 67.151 ms[39m
+[35m[39m
+2022-11-21 22:39:47 [35mhttp[39m: [35mPOST /login 401 73 - 67.170 ms[39m
+[35m[39m
+2022-11-21 22:40:58 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.147 ms[39m
+[35m[39m
+2022-11-21 22:40:58 [35mhttp[39m: [35mPOST /login 401 73 - 66.328 ms[39m
+[35m[39m
+2022-11-21 22:40:58 [35mhttp[39m: [35mPOST /login 401 73 - 77.657 ms[39m
+[35m[39m
+2022-11-21 22:42:05 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.178 ms[39m
+[35m[39m
+2022-11-21 22:42:05 [35mhttp[39m: [35mPOST /login 401 73 - 67.929 ms[39m
+[35m[39m
+2022-11-21 22:42:05 [35mhttp[39m: [35mPOST /login 401 73 - 68.924 ms[39m
+[35m[39m
+2022-11-21 22:42:16 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.164 ms[39m
+[35m[39m
+2022-11-21 22:42:16 [35mhttp[39m: [35mPOST /login 401 73 - 71.078 ms[39m
+[35m[39m
+2022-11-21 22:42:16 [35mhttp[39m: [35mPOST /login 401 73 - 74.318 ms[39m
+[35m[39m
+2022-11-21 22:43:03 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.147 ms[39m
+[35m[39m
+2022-11-21 22:43:03 [35mhttp[39m: [35mPOST /login 401 73 - 61.479 ms[39m
+[35m[39m
+2022-11-21 22:43:03 [35mhttp[39m: [35mPOST /login 401 73 - 61.220 ms[39m
+[35m[39m
+2022-11-21 22:43:16 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.179 ms[39m
+[35m[39m
+2022-11-21 22:43:16 [35mhttp[39m: [35mPOST /login 401 73 - 64.597 ms[39m
+[35m[39m
+2022-11-21 22:43:16 [35mhttp[39m: [35mPOST /login 401 73 - 67.772 ms[39m
+[35m[39m
+2022-11-21 22:43:22 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.176 ms[39m
+[35m[39m
+2022-11-21 22:43:22 [35mhttp[39m: [35mPOST /login 401 73 - 66.853 ms[39m
+[35m[39m
+2022-11-21 22:43:22 [35mhttp[39m: [35mPOST /login 401 73 - 72.266 ms[39m
+[35m[39m
+2022-11-21 22:44:30 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.131 ms[39m
+[35m[39m
+2022-11-21 22:44:30 [35mhttp[39m: [35mPOST /login 401 73 - 73.739 ms[39m
+[35m[39m
+2022-11-21 22:44:30 [35mhttp[39m: [35mPOST /login 401 73 - 76.983 ms[39m
+[35m[39m
+2022-11-21 22:44:48 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.176 ms[39m
+[35m[39m
+2022-11-21 22:44:48 [35mhttp[39m: [35mPOST /login 401 73 - 70.341 ms[39m
+[35m[39m
+2022-11-21 22:44:48 [35mhttp[39m: [35mPOST /login 401 73 - 69.688 ms[39m
+[35m[39m
+2022-11-21 22:46:56 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.194 ms[39m
+[35m[39m
+2022-11-21 22:46:56 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.228 ms[39m
+[35m[39m
+2022-11-21 22:46:56 [35mhttp[39m: [35mPOST /login 401 73 - 71.854 ms[39m
+[35m[39m
+2022-11-21 22:46:56 [35mhttp[39m: [35mPOST /login 401 73 - 75.991 ms[39m
+[35m[39m
+2022-11-21 22:47:03 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.200 ms[39m
+[35m[39m
+2022-11-21 22:47:03 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.540 ms[39m
+[35m[39m
+2022-11-21 22:47:03 [35mhttp[39m: [35mPOST /login 200 361 - 62.019 ms[39m
+[35m[39m
+2022-11-21 22:47:03 [35mhttp[39m: [35mPOST /login 200 361 - 64.495 ms[39m
+[35m[39m
+2022-11-21 22:47:11 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.260 ms[39m
+[35m[39m
+2022-11-21 22:47:11 [35mhttp[39m: [35mPOST /login 200 361 - 70.975 ms[39m
+[35m[39m
+2022-11-21 22:47:11 [35mhttp[39m: [35mPOST /login 200 361 - 72.847 ms[39m
+[35m[39m
+2022-11-22 02:45:29 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-11-22 02:45:48 [33mwarn[39m: [33mMongoose default connection disconnected through app termination[39m
+2022-11-22 17:58:03 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-22 17:58:33 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-11-22 17:58:33 [31merror[39m: [31mError when connecting to database[39m
+2022-11-22 17:58:33 [33mwarn[39m: [33mMongoose default connection error: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017[39m
+2022-11-22 17:59:48 [35mhttp[39m: [35mOPTIONS /login 204 0 - 2.253 ms[39m
+[35m[39m
+2022-11-22 17:59:48 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.195 ms[39m
+[35m[39m
+2022-11-22 17:59:58 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 17:59:58 [35mhttp[39m: [35mPOST /login 503 69 - 10017.292 ms[39m
+[35m[39m
+2022-11-22 17:59:58 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 17:59:58 [35mhttp[39m: [35mPOST /login 503 69 - 10016.959 ms[39m
+[35m[39m
+2022-11-22 18:00:20 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.197 ms[39m
+[35m[39m
+2022-11-22 18:00:30 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:00:30 [35mhttp[39m: [35mPOST /login 503 69 - 10005.102 ms[39m
+[35m[39m
+2022-11-22 18:00:30 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:00:30 [35mhttp[39m: [35mPOST /login 503 69 - 10006.114 ms[39m
+[35m[39m
+2022-11-22 18:00:51 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.265 ms[39m
+[35m[39m
+2022-11-22 18:00:51 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.194 ms[39m
+[35m[39m
+2022-11-22 18:01:01 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:01:01 [35mhttp[39m: [35mPOST /login 503 69 - 10007.455 ms[39m
+[35m[39m
+2022-11-22 18:01:01 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:01:01 [35mhttp[39m: [35mPOST /login 503 69 - 10009.729 ms[39m
+[35m[39m
+2022-11-22 18:03:42 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.174 ms[39m
+[35m[39m
+2022-11-22 18:03:52 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:03:52 [35mhttp[39m: [35mPOST /login 503 69 - 10009.272 ms[39m
+[35m[39m
+2022-11-22 18:03:52 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:03:52 [35mhttp[39m: [35mPOST /login 503 69 - 10010.790 ms[39m
+[35m[39m
+2022-11-22 18:06:15 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.205 ms[39m
+[35m[39m
+2022-11-22 18:06:25 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:06:25 [35mhttp[39m: [35mPOST /login 503 69 - 10007.060 ms[39m
+[35m[39m
+2022-11-22 18:06:25 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:06:25 [35mhttp[39m: [35mPOST /login 503 69 - 10006.885 ms[39m
+[35m[39m
+2022-11-22 18:06:55 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.422 ms[39m
+[35m[39m
+2022-11-22 18:07:05 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:07:05 [35mhttp[39m: [35mPOST /login 503 69 - 10005.481 ms[39m
+[35m[39m
+2022-11-22 18:07:05 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:07:05 [35mhttp[39m: [35mPOST /login 503 69 - 10005.572 ms[39m
+[35m[39m
+2022-11-22 18:07:21 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.197 ms[39m
+[35m[39m
+2022-11-22 18:07:31 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:07:31 [35mhttp[39m: [35mPOST /login 503 69 - 10007.494 ms[39m
+[35m[39m
+2022-11-22 18:07:31 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:07:31 [35mhttp[39m: [35mPOST /login 503 69 - 10009.379 ms[39m
+[35m[39m
+2022-11-22 18:07:57 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.183 ms[39m
+[35m[39m
+2022-11-22 18:08:07 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:08:07 [35mhttp[39m: [35mPOST /login 503 69 - 10005.431 ms[39m
+[35m[39m
+2022-11-22 18:08:07 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:08:07 [35mhttp[39m: [35mPOST /login 503 69 - 10004.652 ms[39m
+[35m[39m
+2022-11-22 18:08:16 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.177 ms[39m
+[35m[39m
+2022-11-22 18:08:21 [35mhttp[39m: [35mPOST /login - - - - ms[39m
+[35m[39m
+2022-11-22 18:08:21 [35mhttp[39m: [35mPOST /login - - - - ms[39m
+[35m[39m
+2022-11-22 18:08:22 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.204 ms[39m
+[35m[39m
+2022-11-22 18:08:26 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:08:26 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:08:32 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:08:32 [35mhttp[39m: [35mPOST /login 503 69 - 10004.626 ms[39m
+[35m[39m
+2022-11-22 18:08:32 [31merror[39m: [31mError when retrieving user from database[39m
+2022-11-22 18:08:32 [35mhttp[39m: [35mPOST /login 503 69 - 10007.510 ms[39m
+[35m[39m
+2022-11-23 14:53:57 [33mwarn[39m: [33mMongoose default connection disconnected through app termination[39m
+2022-11-23 17:54:41 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-23 17:54:41 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-23 17:55:24 [35mhttp[39m: [35mOPTIONS /login 204 0 - 1.179 ms[39m
+[35m[39m
+2022-11-23 17:55:24 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.162 ms[39m
+[35m[39m
+2022-11-23 17:55:24 [35mhttp[39m: [35mPOST /login 200 361 - 711.360 ms[39m
+[35m[39m
+2022-11-23 17:55:24 [35mhttp[39m: [35mPOST /login 200 361 - 724.865 ms[39m
+[35m[39m
+2022-11-23 17:57:47 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.122 ms[39m
+[35m[39m
+2022-11-23 17:57:47 [35mhttp[39m: [35mPOST /login 200 361 - 63.218 ms[39m
+[35m[39m
+2022-11-23 17:57:47 [35mhttp[39m: [35mPOST /login 200 361 - 61.822 ms[39m
+[35m[39m
+2022-11-23 17:57:52 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.129 ms[39m
+[35m[39m
+2022-11-23 17:57:52 [35mhttp[39m: [35mPOST /login 200 361 - 61.656 ms[39m
+[35m[39m
+2022-11-23 17:57:52 [35mhttp[39m: [35mPOST /login 200 361 - 62.298 ms[39m
+[35m[39m
+2022-11-23 17:58:16 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.149 ms[39m
+[35m[39m
+2022-11-23 17:58:16 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.213 ms[39m
+[35m[39m
+2022-11-23 17:58:16 [35mhttp[39m: [35mPOST /login 200 361 - 67.110 ms[39m
+[35m[39m
+2022-11-23 17:58:16 [35mhttp[39m: [35mPOST /login 200 361 - 66.895 ms[39m
+[35m[39m
+2022-11-23 17:58:39 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.152 ms[39m
+[35m[39m
+2022-11-23 17:58:39 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.100 ms[39m
+[35m[39m
+2022-11-23 17:58:39 [35mhttp[39m: [35mPOST /login 200 361 - 60.126 ms[39m
+[35m[39m
+2022-11-23 17:58:39 [35mhttp[39m: [35mPOST /login 200 361 - 65.087 ms[39m
+[35m[39m
+2022-11-23 17:59:10 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.136 ms[39m
+[35m[39m
+2022-11-23 17:59:10 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.131 ms[39m
+[35m[39m
+2022-11-23 17:59:10 [35mhttp[39m: [35mPOST /login 200 361 - 57.685 ms[39m
+[35m[39m
+2022-11-23 17:59:10 [35mhttp[39m: [35mPOST /login 200 361 - 56.964 ms[39m
+[35m[39m
+2022-11-23 17:59:16 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.194 ms[39m
+[35m[39m
+2022-11-23 17:59:16 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.216 ms[39m
+[35m[39m
+2022-11-23 17:59:16 [35mhttp[39m: [35mPOST /login 200 361 - 59.247 ms[39m
+[35m[39m
+2022-11-23 17:59:16 [35mhttp[39m: [35mPOST /login 200 361 - 55.302 ms[39m
+[35m[39m
+2022-11-23 17:59:41 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.117 ms[39m
+[35m[39m
+2022-11-23 17:59:41 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.111 ms[39m
+[35m[39m
+2022-11-23 17:59:41 [35mhttp[39m: [35mPOST /login 200 361 - 55.143 ms[39m
+[35m[39m
+2022-11-23 17:59:41 [35mhttp[39m: [35mPOST /login 200 361 - 58.964 ms[39m
+[35m[39m
+2022-11-23 18:00:22 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.122 ms[39m
+[35m[39m
+2022-11-23 18:00:22 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.123 ms[39m
+[35m[39m
+2022-11-23 18:00:22 [35mhttp[39m: [35mPOST /login 200 361 - 62.323 ms[39m
+[35m[39m
+2022-11-23 18:00:22 [35mhttp[39m: [35mPOST /login 200 361 - 63.307 ms[39m
+[35m[39m
+2022-11-23 18:00:27 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.175 ms[39m
+[35m[39m
+2022-11-23 18:00:27 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.098 ms[39m
+[35m[39m
+2022-11-23 18:00:28 [35mhttp[39m: [35mPOST /login 200 361 - 67.099 ms[39m
+[35m[39m
+2022-11-23 18:00:28 [35mhttp[39m: [35mPOST /login 200 361 - 62.119 ms[39m
+[35m[39m
+2022-11-23 18:14:33 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.164 ms[39m
+[35m[39m
+2022-11-23 18:14:33 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.209 ms[39m
+[35m[39m
+2022-11-23 18:14:34 [35mhttp[39m: [35mPOST /login 200 361 - 85.698 ms[39m
+[35m[39m
+2022-11-23 18:14:34 [35mhttp[39m: [35mPOST /login 200 361 - 91.190 ms[39m
+[35m[39m
+2022-11-23 18:16:15 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.181 ms[39m
+[35m[39m
+2022-11-23 18:16:15 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.173 ms[39m
+[35m[39m
+2022-11-23 18:16:15 [35mhttp[39m: [35mPOST /login 200 361 - 98.277 ms[39m
+[35m[39m
+2022-11-23 18:16:15 [35mhttp[39m: [35mPOST /login 200 361 - 99.848 ms[39m
+[35m[39m
+2022-11-23 18:17:10 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.214 ms[39m
+[35m[39m
+2022-11-23 18:17:10 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.150 ms[39m
+[35m[39m
+2022-11-23 18:17:10 [35mhttp[39m: [35mPOST /login 200 361 - 64.243 ms[39m
+[35m[39m
+2022-11-23 18:17:10 [35mhttp[39m: [35mPOST /login 200 361 - 64.294 ms[39m
+[35m[39m
+2022-11-23 18:17:26 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.160 ms[39m
+[35m[39m
+2022-11-23 18:17:26 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.173 ms[39m
+[35m[39m
+2022-11-23 18:17:26 [35mhttp[39m: [35mPOST /login 200 361 - 71.796 ms[39m
+[35m[39m
+2022-11-23 18:17:26 [35mhttp[39m: [35mPOST /login 200 361 - 71.250 ms[39m
+[35m[39m
+2022-11-23 18:17:56 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.158 ms[39m
+[35m[39m
+2022-11-23 18:17:56 [35mhttp[39m: [35mPOST /login 200 361 - 67.708 ms[39m
+[35m[39m
+2022-11-23 18:17:56 [35mhttp[39m: [35mPOST /login 200 361 - 68.584 ms[39m
+[35m[39m
+2022-11-23 18:18:15 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.152 ms[39m
+[35m[39m
+2022-11-23 18:18:15 [35mhttp[39m: [35mPOST /login 200 361 - 64.618 ms[39m
+[35m[39m
+2022-11-23 18:18:15 [35mhttp[39m: [35mPOST /login 200 361 - 63.112 ms[39m
+[35m[39m
+2022-11-23 18:18:28 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.251 ms[39m
+[35m[39m
+2022-11-23 18:18:28 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.598 ms[39m
+[35m[39m
+2022-11-23 18:18:28 [35mhttp[39m: [35mPOST /login 200 361 - 73.322 ms[39m
+[35m[39m
+2022-11-23 18:18:28 [35mhttp[39m: [35mPOST /login 200 361 - 76.169 ms[39m
+[35m[39m
+2022-11-23 18:18:55 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.195 ms[39m
+[35m[39m
+2022-11-23 18:18:55 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.142 ms[39m
+[35m[39m
+2022-11-23 18:18:55 [35mhttp[39m: [35mPOST /login 200 361 - 78.174 ms[39m
+[35m[39m
+2022-11-23 18:18:55 [35mhttp[39m: [35mPOST /login 200 361 - 75.245 ms[39m
+[35m[39m
+2022-11-23 18:19:45 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.205 ms[39m
+[35m[39m
+2022-11-23 18:19:45 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.215 ms[39m
+[35m[39m
+2022-11-23 18:19:45 [35mhttp[39m: [35mPOST /login 200 361 - 71.861 ms[39m
+[35m[39m
+2022-11-23 18:19:45 [35mhttp[39m: [35mPOST /login 200 361 - 74.905 ms[39m
+[35m[39m
+2022-11-23 18:21:05 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.223 ms[39m
+[35m[39m
+2022-11-23 18:21:05 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.131 ms[39m
+[35m[39m
+2022-11-23 18:21:05 [35mhttp[39m: [35mPOST /login 200 361 - 64.409 ms[39m
+[35m[39m
+2022-11-23 18:21:05 [35mhttp[39m: [35mPOST /login 200 361 - 61.850 ms[39m
+[35m[39m
+2022-11-23 18:24:02 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.170 ms[39m
+[35m[39m
+2022-11-23 18:24:02 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.186 ms[39m
+[35m[39m
+2022-11-23 18:24:03 [35mhttp[39m: [35mPOST /login 200 361 - 72.072 ms[39m
+[35m[39m
+2022-11-23 18:24:03 [35mhttp[39m: [35mPOST /login 200 361 - 64.809 ms[39m
+[35m[39m
+2022-11-23 18:24:14 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.172 ms[39m
+[35m[39m
+2022-11-23 18:24:14 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.127 ms[39m
+[35m[39m
+2022-11-23 18:24:14 [35mhttp[39m: [35mPOST /login 200 361 - 77.398 ms[39m
+[35m[39m
+2022-11-23 18:24:14 [35mhttp[39m: [35mPOST /login 200 361 - 90.489 ms[39m
+[35m[39m
+2022-11-23 18:25:42 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.169 ms[39m
+[35m[39m
+2022-11-23 18:25:42 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.158 ms[39m
+[35m[39m
+2022-11-23 18:25:42 [35mhttp[39m: [35mPOST /login 200 361 - 67.541 ms[39m
+[35m[39m
+2022-11-23 18:25:42 [35mhttp[39m: [35mPOST /login 200 361 - 67.369 ms[39m
+[35m[39m
+2022-11-23 18:25:50 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.169 ms[39m
+[35m[39m
+2022-11-23 18:25:50 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.158 ms[39m
+[35m[39m
+2022-11-23 18:25:50 [35mhttp[39m: [35mPOST /login 200 361 - 69.698 ms[39m
+[35m[39m
+2022-11-23 18:25:50 [35mhttp[39m: [35mPOST /login 200 361 - 70.051 ms[39m
+[35m[39m
+2022-11-23 18:26:13 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.157 ms[39m
+[35m[39m
+2022-11-23 18:26:14 [35mhttp[39m: [35mPOST /login 200 361 - 67.479 ms[39m
+[35m[39m
+2022-11-23 18:26:14 [35mhttp[39m: [35mPOST /login 200 361 - 67.002 ms[39m
+[35m[39m
+2022-11-23 18:26:28 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.126 ms[39m
+[35m[39m
+2022-11-23 18:26:28 [35mhttp[39m: [35mPOST /login 200 361 - 65.504 ms[39m
+[35m[39m
+2022-11-23 18:26:28 [35mhttp[39m: [35mPOST /login 200 361 - 71.975 ms[39m
+[35m[39m
+2022-11-23 18:27:34 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.201 ms[39m
+[35m[39m
+2022-11-23 18:27:34 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.136 ms[39m
+[35m[39m
+2022-11-23 18:27:34 [35mhttp[39m: [35mPOST /login 200 361 - 70.394 ms[39m
+[35m[39m
+2022-11-23 18:27:34 [35mhttp[39m: [35mPOST /login 200 361 - 69.705 ms[39m
+[35m[39m
+2022-11-23 18:28:12 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.132 ms[39m
+[35m[39m
+2022-11-23 18:28:12 [35mhttp[39m: [35mPOST /login 200 361 - 59.782 ms[39m
+[35m[39m
+2022-11-23 18:28:12 [35mhttp[39m: [35mPOST /login 200 361 - 60.653 ms[39m
+[35m[39m
+2022-11-23 18:28:56 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.179 ms[39m
+[35m[39m
+2022-11-23 18:28:56 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.174 ms[39m
+[35m[39m
+2022-11-23 18:28:56 [35mhttp[39m: [35mPOST /login 200 361 - 76.660 ms[39m
+[35m[39m
+2022-11-23 18:28:56 [35mhttp[39m: [35mPOST /login 200 361 - 75.050 ms[39m
+[35m[39m
+2022-11-23 18:29:33 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.137 ms[39m
+[35m[39m
+2022-11-23 18:29:33 [35mhttp[39m: [35mPOST /login 200 361 - 73.035 ms[39m
+[35m[39m
+2022-11-23 18:29:33 [35mhttp[39m: [35mPOST /login 200 361 - 76.372 ms[39m
+[35m[39m
+2022-11-23 18:30:13 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.218 ms[39m
+[35m[39m
+2022-11-23 18:30:13 [35mhttp[39m: [35mPOST /login 200 361 - 66.514 ms[39m
+[35m[39m
+2022-11-23 18:30:13 [35mhttp[39m: [35mPOST /login 200 361 - 68.598 ms[39m
+[35m[39m
+2022-11-23 18:33:31 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.134 ms[39m
+[35m[39m
+2022-11-23 18:33:31 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.165 ms[39m
+[35m[39m
+2022-11-23 18:33:31 [35mhttp[39m: [35mPOST /login 200 361 - 71.890 ms[39m
+[35m[39m
+2022-11-23 18:33:31 [35mhttp[39m: [35mPOST /login 200 361 - 74.478 ms[39m
+[35m[39m
+2022-11-23 18:36:02 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.136 ms[39m
+[35m[39m
+2022-11-23 18:36:02 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.114 ms[39m
+[35m[39m
+2022-11-23 18:36:02 [35mhttp[39m: [35mPOST /login 200 361 - 61.375 ms[39m
+[35m[39m
+2022-11-23 18:36:02 [35mhttp[39m: [35mPOST /login 200 361 - 60.400 ms[39m
+[35m[39m
+2022-11-23 18:41:19 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.136 ms[39m
+[35m[39m
+2022-11-23 18:41:19 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.141 ms[39m
+[35m[39m
+2022-11-23 18:41:19 [35mhttp[39m: [35mPOST /login 200 361 - 67.056 ms[39m
+[35m[39m
+2022-11-23 18:41:19 [35mhttp[39m: [35mPOST /login 200 361 - 66.871 ms[39m
+[35m[39m
+2022-11-23 18:41:55 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.236 ms[39m
+[35m[39m
+2022-11-23 18:41:55 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.202 ms[39m
+[35m[39m
+2022-11-23 18:41:55 [35mhttp[39m: [35mPOST /login 200 361 - 71.868 ms[39m
+[35m[39m
+2022-11-23 18:41:55 [35mhttp[39m: [35mPOST /login 200 361 - 70.821 ms[39m
+[35m[39m
+2022-11-23 18:42:54 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.205 ms[39m
+[35m[39m
+2022-11-23 18:42:54 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.173 ms[39m
+[35m[39m
+2022-11-23 18:42:54 [35mhttp[39m: [35mPOST /login 200 361 - 66.241 ms[39m
+[35m[39m
+2022-11-23 18:42:54 [35mhttp[39m: [35mPOST /login 200 361 - 71.280 ms[39m
+[35m[39m
+2022-11-23 18:44:03 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.337 ms[39m
+[35m[39m
+2022-11-23 18:44:03 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.186 ms[39m
+[35m[39m
+2022-11-23 18:44:03 [35mhttp[39m: [35mPOST /login 200 361 - 70.189 ms[39m
+[35m[39m
+2022-11-23 18:44:03 [35mhttp[39m: [35mPOST /login 200 361 - 79.799 ms[39m
+[35m[39m
+2022-11-23 18:44:38 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.123 ms[39m
+[35m[39m
+2022-11-23 18:44:38 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.112 ms[39m
+[35m[39m
+2022-11-23 18:44:38 [35mhttp[39m: [35mPOST /login 200 361 - 63.379 ms[39m
+[35m[39m
+2022-11-23 18:44:38 [35mhttp[39m: [35mPOST /login 200 361 - 72.720 ms[39m
+[35m[39m
+2022-11-23 18:45:04 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.148 ms[39m
+[35m[39m
+2022-11-23 18:45:04 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.163 ms[39m
+[35m[39m
+2022-11-23 18:45:04 [35mhttp[39m: [35mPOST /login 200 361 - 55.786 ms[39m
+[35m[39m
+2022-11-23 18:45:04 [35mhttp[39m: [35mPOST /login 200 361 - 54.588 ms[39m
+[35m[39m
+2022-11-23 18:45:44 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.115 ms[39m
+[35m[39m
+2022-11-23 18:45:44 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.153 ms[39m
+[35m[39m
+2022-11-23 18:45:44 [35mhttp[39m: [35mPOST /login 200 361 - 59.267 ms[39m
+[35m[39m
+2022-11-23 18:45:44 [35mhttp[39m: [35mPOST /login 200 361 - 59.106 ms[39m
+[35m[39m
+2022-11-23 18:46:14 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.230 ms[39m
+[35m[39m
+2022-11-23 18:46:14 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.086 ms[39m
+[35m[39m
+2022-11-23 18:46:15 [35mhttp[39m: [35mPOST /login 200 361 - 56.749 ms[39m
+[35m[39m
+2022-11-23 18:46:15 [35mhttp[39m: [35mPOST /login 200 361 - 56.454 ms[39m
+[35m[39m
+2022-11-23 18:47:30 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.152 ms[39m
+[35m[39m
+2022-11-23 18:47:30 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.120 ms[39m
+[35m[39m
+2022-11-23 18:47:30 [35mhttp[39m: [35mPOST /login 200 361 - 69.914 ms[39m
+[35m[39m
+2022-11-23 18:47:30 [35mhttp[39m: [35mPOST /login 200 361 - 70.240 ms[39m
+[35m[39m
+2022-11-23 18:48:08 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.129 ms[39m
+[35m[39m
+2022-11-23 18:48:08 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.081 ms[39m
+[35m[39m
+2022-11-23 18:48:08 [35mhttp[39m: [35mPOST /login 200 361 - 63.201 ms[39m
+[35m[39m
+2022-11-23 18:48:08 [35mhttp[39m: [35mPOST /login 200 361 - 65.251 ms[39m
+[35m[39m
+2022-11-23 18:48:44 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.087 ms[39m
+[35m[39m
+2022-11-23 18:48:44 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.079 ms[39m
+[35m[39m
+2022-11-23 18:48:44 [35mhttp[39m: [35mPOST /login 200 361 - 60.422 ms[39m
+[35m[39m
+2022-11-23 18:48:44 [35mhttp[39m: [35mPOST /login 200 361 - 59.027 ms[39m
+[35m[39m
+2022-11-23 18:48:59 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.166 ms[39m
+[35m[39m
+2022-11-23 18:48:59 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.075 ms[39m
+[35m[39m
+2022-11-23 18:48:59 [35mhttp[39m: [35mPOST /login 200 361 - 54.932 ms[39m
+[35m[39m
+2022-11-23 18:48:59 [35mhttp[39m: [35mPOST /login 200 361 - 55.461 ms[39m
+[35m[39m
+2022-11-23 18:49:15 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.128 ms[39m
+[35m[39m
+2022-11-23 18:49:15 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.100 ms[39m
+[35m[39m
+2022-11-23 18:49:15 [35mhttp[39m: [35mPOST /login 200 361 - 58.172 ms[39m
+[35m[39m
+2022-11-23 18:49:15 [35mhttp[39m: [35mPOST /login 200 361 - 57.459 ms[39m
+[35m[39m
+2022-11-23 18:49:31 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.103 ms[39m
+[35m[39m
+2022-11-23 18:49:31 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.108 ms[39m
+[35m[39m
+2022-11-23 18:49:31 [35mhttp[39m: [35mPOST /login 200 361 - 69.638 ms[39m
+[35m[39m
+2022-11-23 18:49:31 [35mhttp[39m: [35mPOST /login 200 361 - 70.738 ms[39m
+[35m[39m
+2022-11-23 18:49:39 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.232 ms[39m
+[35m[39m
+2022-11-23 18:49:39 [35mhttp[39m: [35mPOST /login 200 361 - 63.035 ms[39m
+[35m[39m
+2022-11-23 18:49:39 [35mhttp[39m: [35mPOST /login 200 361 - 61.376 ms[39m
+[35m[39m
+2022-11-23 18:49:41 [35mhttp[39m: [35mPOST /login 200 361 - 64.181 ms[39m
+[35m[39m
+2022-11-23 18:49:41 [35mhttp[39m: [35mPOST /login 200 361 - 63.331 ms[39m
+[35m[39m
+2022-11-23 18:50:00 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.152 ms[39m
+[35m[39m
+2022-11-23 18:50:00 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.115 ms[39m
+[35m[39m
+2022-11-23 18:50:00 [35mhttp[39m: [35mPOST /login 200 361 - 55.808 ms[39m
+[35m[39m
+2022-11-23 18:50:00 [35mhttp[39m: [35mPOST /login 200 361 - 56.068 ms[39m
+[35m[39m
+2022-11-23 18:51:07 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.172 ms[39m
+[35m[39m
+2022-11-23 18:51:07 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.247 ms[39m
+[35m[39m
+2022-11-23 18:51:07 [35mhttp[39m: [35mPOST /login 200 361 - 70.878 ms[39m
+[35m[39m
+2022-11-23 18:51:07 [35mhttp[39m: [35mPOST /login 200 361 - 70.510 ms[39m
+[35m[39m
+2022-11-23 18:51:16 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.155 ms[39m
+[35m[39m
+2022-11-23 18:51:16 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.169 ms[39m
+[35m[39m
+2022-11-23 18:51:16 [35mhttp[39m: [35mPOST /login 200 361 - 56.050 ms[39m
+[35m[39m
+2022-11-23 18:51:16 [35mhttp[39m: [35mPOST /login 200 361 - 57.084 ms[39m
+[35m[39m
+2022-11-23 18:53:02 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.098 ms[39m
+[35m[39m
+2022-11-23 18:53:02 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.225 ms[39m
+[35m[39m
+2022-11-23 18:53:02 [35mhttp[39m: [35mPOST /login 200 361 - 65.040 ms[39m
+[35m[39m
+2022-11-23 18:53:02 [35mhttp[39m: [35mPOST /login 200 361 - 69.475 ms[39m
+[35m[39m
+2022-11-23 18:55:06 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.171 ms[39m
+[35m[39m
+2022-11-23 18:55:06 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.266 ms[39m
+[35m[39m
+2022-11-23 18:55:06 [35mhttp[39m: [35mPOST /login 200 361 - 65.254 ms[39m
+[35m[39m
+2022-11-23 18:55:06 [35mhttp[39m: [35mPOST /login 200 361 - 68.892 ms[39m
+[35m[39m
+2022-11-23 18:55:48 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.141 ms[39m
+[35m[39m
+2022-11-23 18:55:48 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.176 ms[39m
+[35m[39m
+2022-11-23 18:55:48 [35mhttp[39m: [35mPOST /login 200 361 - 58.748 ms[39m
+[35m[39m
+2022-11-23 18:55:48 [35mhttp[39m: [35mPOST /login 200 361 - 58.115 ms[39m
+[35m[39m
+2022-11-23 18:56:34 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.148 ms[39m
+[35m[39m
+2022-11-23 18:56:34 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.174 ms[39m
+[35m[39m
+2022-11-23 18:56:34 [35mhttp[39m: [35mPOST /login 200 361 - 68.168 ms[39m
+[35m[39m
+2022-11-23 18:56:34 [35mhttp[39m: [35mPOST /login 200 361 - 70.462 ms[39m
+[35m[39m
+2022-11-23 19:11:01 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.096 ms[39m
+[35m[39m
+2022-11-23 19:11:01 [35mhttp[39m: [35mPOST /login 401 178 - 0.935 ms[39m
+[35m[39m
+2022-11-23 19:17:08 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.130 ms[39m
+[35m[39m
+2022-11-23 19:17:08 [35mhttp[39m: [35mPOST /login 401 178 - 0.608 ms[39m
+[35m[39m
+2022-11-23 19:17:36 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.450 ms[39m
+[35m[39m
+2022-11-23 19:17:36 [35mhttp[39m: [35mPOST /login 401 178 - 0.862 ms[39m
+[35m[39m
+2022-11-23 19:17:37 [35mhttp[39m: [35mPOST /login 401 178 - 1.164 ms[39m
+[35m[39m
+2022-11-23 19:17:37 [35mhttp[39m: [35mPOST /login 401 178 - 0.932 ms[39m
+[35m[39m
+2022-11-23 19:20:50 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.243 ms[39m
+[35m[39m
+2022-11-23 19:20:50 [35mhttp[39m: [35mPOST /login 401 178 - 0.406 ms[39m
+[35m[39m
+2022-11-23 19:21:10 [35mhttp[39m: [35mOPTIONS /register 204 0 - 0.345 ms[39m
+[35m[39m
+2022-11-23 19:21:10 [35mhttp[39m: [35mPOST /register 401 206 - 1.298 ms[39m
+[35m[39m
+2022-11-23 19:27:10 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.270 ms[39m
+[35m[39m
+2022-11-23 19:27:10 [35mhttp[39m: [35mPOST /login 401 178 - 0.467 ms[39m
+[35m[39m
+2022-11-23 19:31:10 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.430 ms[39m
+[35m[39m
+2022-11-23 19:31:10 [35mhttp[39m: [35mPOST /login 401 178 - 0.481 ms[39m
+[35m[39m
+2022-11-23 19:31:12 [35mhttp[39m: [35mPOST /login 401 178 - 0.557 ms[39m
+[35m[39m
+2022-11-23 19:31:12 [35mhttp[39m: [35mPOST /login 401 178 - 1.243 ms[39m
+[35m[39m
+2022-11-23 19:31:13 [35mhttp[39m: [35mPOST /login 401 178 - 1.249 ms[39m
+[35m[39m
+2022-11-23 19:33:21 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.275 ms[39m
+[35m[39m
+2022-11-23 19:33:21 [35mhttp[39m: [35mPOST /login 401 178 - 0.561 ms[39m
+[35m[39m
+2022-11-23 22:31:47 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.188 ms[39m
+[35m[39m
+2022-11-23 22:31:47 [35mhttp[39m: [35mPOST /login 401 178 - 0.691 ms[39m
+[35m[39m
+2022-11-24 17:08:16 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.379 ms[39m
+[35m[39m
+2022-11-24 17:08:16 [35mhttp[39m: [35mPOST /login 401 178 - 1.040 ms[39m
+[35m[39m
+2022-11-24 17:19:36 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.102 ms[39m
+[35m[39m
+2022-11-24 17:19:36 [35mhttp[39m: [35mPOST /login 200 361 - 60.839 ms[39m
+[35m[39m
+2022-11-24 17:19:36 [35mhttp[39m: [35mPOST /login 200 361 - 63.223 ms[39m
+[35m[39m
+2022-11-24 17:19:56 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.151 ms[39m
+[35m[39m
+2022-11-24 17:19:56 [35mhttp[39m: [35mPOST /login 200 361 - 66.452 ms[39m
+[35m[39m
+2022-11-24 17:19:56 [35mhttp[39m: [35mPOST /login 200 361 - 71.864 ms[39m
+[35m[39m
+2022-11-24 17:20:55 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.138 ms[39m
+[35m[39m
+2022-11-24 17:20:55 [35mhttp[39m: [35mPOST /login 200 361 - 65.033 ms[39m
+[35m[39m
+2022-11-24 17:20:55 [35mhttp[39m: [35mPOST /login 200 361 - 68.365 ms[39m
+[35m[39m
+2022-11-24 17:20:58 [35mhttp[39m: [35mPOST /login 200 361 - 62.383 ms[39m
+[35m[39m
+2022-11-24 17:20:58 [35mhttp[39m: [35mPOST /login 200 361 - 61.532 ms[39m
+[35m[39m
+2022-11-24 17:21:13 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.126 ms[39m
+[35m[39m
+2022-11-24 17:21:13 [35mhttp[39m: [35mPOST /login 200 361 - 64.140 ms[39m
+[35m[39m
+2022-11-24 17:21:13 [35mhttp[39m: [35mPOST /login 200 361 - 67.245 ms[39m
+[35m[39m
+2022-11-24 17:21:35 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.137 ms[39m
+[35m[39m
+2022-11-24 17:21:35 [35mhttp[39m: [35mPOST /login 200 361 - 67.657 ms[39m
+[35m[39m
+2022-11-24 17:21:35 [35mhttp[39m: [35mPOST /login 200 361 - 66.830 ms[39m
+[35m[39m
+2022-11-24 17:26:14 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.624 ms[39m
+[35m[39m
+2022-11-24 17:26:14 [35mhttp[39m: [35mPOST /login 401 178 - 0.645 ms[39m
+[35m[39m
+2022-11-24 17:26:16 [35mhttp[39m: [35mPOST /login 401 178 - 1.506 ms[39m
+[35m[39m
+2022-11-24 17:26:50 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.587 ms[39m
+[35m[39m
+2022-11-24 17:26:50 [35mhttp[39m: [35mPOST /login 401 178 - 1.302 ms[39m
+[35m[39m
+2022-11-24 17:28:41 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.096 ms[39m
+[35m[39m
+2022-11-24 17:28:41 [35mhttp[39m: [35mPOST /login 401 178 - 0.301 ms[39m
+[35m[39m
+2022-11-24 17:40:13 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.271 ms[39m
+[35m[39m
+2022-11-24 17:40:13 [35mhttp[39m: [35mPOST /login 401 178 - 0.522 ms[39m
+[35m[39m
+2022-11-24 17:40:14 [35mhttp[39m: [35mPOST /login 401 178 - 1.764 ms[39m
+[35m[39m
+2022-11-24 17:40:14 [35mhttp[39m: [35mPOST /login 401 178 - 1.189 ms[39m
+[35m[39m
+2022-11-24 17:40:20 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.107 ms[39m
+[35m[39m
+2022-11-24 17:40:20 [35mhttp[39m: [35mPOST /login 401 178 - 0.616 ms[39m
+[35m[39m
+2022-11-24 17:40:20 [35mhttp[39m: [35mPOST /login 401 178 - 0.719 ms[39m
+[35m[39m
+2022-11-24 17:40:21 [35mhttp[39m: [35mPOST /login 401 178 - 0.909 ms[39m
+[35m[39m
+2022-11-24 17:40:21 [35mhttp[39m: [35mPOST /login 401 178 - 0.595 ms[39m
+[35m[39m
+2022-11-24 17:40:24 [35mhttp[39m: [35mPOST /login 401 178 - 0.460 ms[39m
+[35m[39m
+2022-11-24 17:40:24 [35mhttp[39m: [35mPOST /login 401 178 - 1.414 ms[39m
+[35m[39m
+2022-11-24 17:40:35 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.244 ms[39m
+[35m[39m
+2022-11-24 17:40:35 [35mhttp[39m: [35mPOST /login 401 178 - 0.470 ms[39m
+[35m[39m
+2022-11-24 17:41:12 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.142 ms[39m
+[35m[39m
+2022-11-24 17:41:12 [35mhttp[39m: [35mPOST /login 401 178 - 0.355 ms[39m
+[35m[39m
+2022-11-24 17:41:15 [35mhttp[39m: [35mPOST /login 401 178 - 1.461 ms[39m
+[35m[39m
+2022-11-24 17:41:17 [35mhttp[39m: [35mPOST /login 401 178 - 0.983 ms[39m
+[35m[39m
+2022-11-24 17:46:52 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.370 ms[39m
+[35m[39m
+2022-11-24 17:46:52 [35mhttp[39m: [35mPOST /login 401 178 - 0.672 ms[39m
+[35m[39m
+2022-11-24 17:55:00 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.127 ms[39m
+[35m[39m
+2022-11-24 17:55:00 [35mhttp[39m: [35mPOST /login 401 178 - 0.324 ms[39m
+[35m[39m
+2022-11-24 18:22:39 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-11-28 19:09:32 [32minfo[39m: [32mListening on port 5000[39m
+2022-11-28 19:09:32 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-11-28 19:11:09 [35mhttp[39m: [35mOPTIONS /login 204 0 - 2.090 ms[39m
+[35m[39m
+2022-11-28 19:11:09 [35mhttp[39m: [35mPOST /login 401 178 - 6.941 ms[39m
+[35m[39m
+2022-11-28 19:11:25 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.745 ms[39m
+[35m[39m
+2022-11-28 19:11:25 [35mhttp[39m: [35mPOST /login 401 178 - 1.421 ms[39m
+[35m[39m
+2022-11-28 19:21:55 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.257 ms[39m
+[35m[39m
+2022-11-28 19:21:55 [35mhttp[39m: [35mPOST /login 401 178 - 1.007 ms[39m
+[35m[39m
+2022-11-28 19:28:19 [35mhttp[39m: [35mPOST /register 200 85 - 349.959 ms[39m
+[35m[39m
+2022-11-28 19:28:51 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.224 ms[39m
+[35m[39m
+2022-11-28 19:28:51 [35mhttp[39m: [35mPOST /login 401 178 - 0.612 ms[39m
+[35m[39m
+2022-11-28 19:31:45 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.188 ms[39m
+[35m[39m
+2022-11-28 19:31:45 [35mhttp[39m: [35mPOST /login 401 178 - 0.482 ms[39m
+[35m[39m
+2022-11-28 19:31:58 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.655 ms[39m
+[35m[39m
+2022-11-28 19:31:58 [35mhttp[39m: [35mPOST /login 401 178 - 1.002 ms[39m
+[35m[39m
+2022-11-28 19:34:30 [35mhttp[39m: [35mPOST /login 200 357 - 106.844 ms[39m
+[35m[39m
+2022-11-28 19:36:36 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.150 ms[39m
+[35m[39m
+2022-11-28 19:36:36 [35mhttp[39m: [35mPOST /login 401 178 - 0.397 ms[39m
+[35m[39m
+2022-11-28 19:37:46 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.281 ms[39m
+[35m[39m
+2022-11-28 19:37:46 [35mhttp[39m: [35mPOST /login 401 178 - 0.756 ms[39m
+[35m[39m
+2022-11-28 19:42:42 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.189 ms[39m
+[35m[39m
+2022-11-28 19:42:42 [35mhttp[39m: [35mPOST /login 200 357 - 73.331 ms[39m
+[35m[39m
+2022-11-28 19:50:32 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.329 ms[39m
+[35m[39m
+2022-11-28 19:50:32 [35mhttp[39m: [35mPOST /login 200 357 - 70.130 ms[39m
+[35m[39m
+2022-11-28 19:50:59 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.784 ms[39m
+[35m[39m
+2022-11-28 19:50:59 [35mhttp[39m: [35mPOST /login 200 357 - 70.280 ms[39m
+[35m[39m
+2022-11-28 19:53:46 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.372 ms[39m
+[35m[39m
+2022-11-28 19:53:46 [35mhttp[39m: [35mPOST /login 401 178 - 0.578 ms[39m
+[35m[39m
+2022-11-28 19:55:56 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.237 ms[39m
+[35m[39m
+2022-11-28 19:55:56 [35mhttp[39m: [35mPOST /login 401 178 - 0.578 ms[39m
+[35m[39m
+2022-11-28 19:57:47 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.634 ms[39m
+[35m[39m
+2022-11-28 19:57:47 [35mhttp[39m: [35mPOST /login 401 178 - 0.793 ms[39m
+[35m[39m
+2022-11-28 19:57:48 [35mhttp[39m: [35mPOST /login 401 178 - 1.591 ms[39m
+[35m[39m
+2022-11-28 19:57:48 [35mhttp[39m: [35mPOST /login 401 178 - 0.963 ms[39m
+[35m[39m
+2022-11-28 19:57:49 [35mhttp[39m: [35mPOST /login 401 178 - 0.733 ms[39m
+[35m[39m
+2022-11-28 19:57:52 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.130 ms[39m
+[35m[39m
+2022-11-28 19:57:52 [35mhttp[39m: [35mPOST /login 401 178 - 0.284 ms[39m
+[35m[39m
+2022-11-28 19:57:58 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.298 ms[39m
+[35m[39m
+2022-11-28 19:57:58 [35mhttp[39m: [35mPOST /login 401 178 - 0.485 ms[39m
+[35m[39m
+2022-11-28 19:58:01 [35mhttp[39m: [35mPOST /login 401 178 - 0.971 ms[39m
+[35m[39m
+2022-11-28 19:58:55 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.193 ms[39m
+[35m[39m
+2022-11-28 19:58:55 [35mhttp[39m: [35mPOST /login 401 178 - 0.411 ms[39m
+[35m[39m
+2022-11-28 20:06:27 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.152 ms[39m
+[35m[39m
+2022-11-28 20:06:27 [35mhttp[39m: [35mPOST /login 401 178 - 0.530 ms[39m
+[35m[39m
+2022-11-28 20:07:38 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.615 ms[39m
+[35m[39m
+2022-11-28 20:07:38 [35mhttp[39m: [35mPOST /login 200 357 - 68.495 ms[39m
+[35m[39m
+2022-11-28 20:11:04 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.200 ms[39m
+[35m[39m
+2022-11-28 20:11:04 [35mhttp[39m: [35mPOST /login 401 178 - 0.660 ms[39m
+[35m[39m
+2022-11-28 20:11:49 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.254 ms[39m
+[35m[39m
+2022-11-28 20:11:49 [35mhttp[39m: [35mPOST /login 401 178 - 0.603 ms[39m
+[35m[39m
+2022-11-28 20:12:19 [35mhttp[39m: [35mPOST /login 200 357 - 88.465 ms[39m
+[35m[39m
+2022-11-28 20:13:22 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.111 ms[39m
+[35m[39m
+2022-11-28 20:13:22 [35mhttp[39m: [35mPOST /login 401 178 - 0.269 ms[39m
+[35m[39m
+2022-11-28 20:18:24 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.251 ms[39m
+[35m[39m
+2022-11-28 20:18:24 [35mhttp[39m: [35mPOST /login 401 178 - 0.602 ms[39m
+[35m[39m
+2022-11-28 20:22:07 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.284 ms[39m
+[35m[39m
+2022-11-28 20:22:07 [35mhttp[39m: [35mPOST /login 401 178 - 0.753 ms[39m
+[35m[39m
+2022-11-28 20:23:24 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.200 ms[39m
+[35m[39m
+2022-11-28 20:23:24 [35mhttp[39m: [35mPOST /login 401 178 - 0.404 ms[39m
+[35m[39m
+2022-11-28 20:24:18 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.470 ms[39m
+[35m[39m
+2022-11-28 20:24:18 [35mhttp[39m: [35mPOST /login 200 357 - 159.257 ms[39m
+[35m[39m
+2022-11-28 20:24:44 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.268 ms[39m
+[35m[39m
+2022-11-28 20:24:44 [35mhttp[39m: [35mPOST /login 200 357 - 77.817 ms[39m
+[35m[39m
+2022-11-28 20:35:59 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.387 ms[39m
+[35m[39m
+2022-11-28 20:35:59 [35mhttp[39m: [35mPOST /login 200 357 - 80.052 ms[39m
+[35m[39m
+2022-11-28 20:36:06 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.575 ms[39m
+[35m[39m
+2022-11-28 20:36:06 [35mhttp[39m: [35mPOST /login 401 91 - 5.080 ms[39m
+[35m[39m
+2022-11-28 20:36:31 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.244 ms[39m
+[35m[39m
+2022-11-28 20:36:31 [35mhttp[39m: [35mPOST /login 401 91 - 2.862 ms[39m
+[35m[39m
+2022-11-28 20:38:20 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.367 ms[39m
+[35m[39m
+2022-11-28 20:38:20 [35mhttp[39m: [35mPOST /login 401 91 - 4.465 ms[39m
+[35m[39m
+2022-11-28 20:38:59 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.175 ms[39m
+[35m[39m
+2022-11-28 20:38:59 [35mhttp[39m: [35mPOST /login 401 91 - 2.961 ms[39m
+[35m[39m
+2022-11-28 20:43:06 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.382 ms[39m
+[35m[39m
+2022-11-28 20:43:06 [35mhttp[39m: [35mPOST /login 401 91 - 4.547 ms[39m
+[35m[39m
+2022-11-28 20:43:34 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.759 ms[39m
+[35m[39m
+2022-11-28 20:43:34 [35mhttp[39m: [35mPOST /login 200 357 - 75.240 ms[39m
+[35m[39m
+2022-11-28 20:47:34 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.270 ms[39m
+[35m[39m
+2022-11-28 20:47:34 [35mhttp[39m: [35mPOST /login 401 91 - 6.566 ms[39m
+[35m[39m
+2022-11-28 20:47:44 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.270 ms[39m
+[35m[39m
+2022-11-28 20:47:44 [35mhttp[39m: [35mPOST /login 200 357 - 70.664 ms[39m
+[35m[39m
+2022-11-28 20:48:24 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.207 ms[39m
+[35m[39m
+2022-11-28 20:48:24 [35mhttp[39m: [35mPOST /login 200 357 - 65.466 ms[39m
+[35m[39m
+2022-11-28 20:48:45 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.238 ms[39m
+[35m[39m
+2022-11-28 20:48:45 [35mhttp[39m: [35mPOST /login 200 357 - 69.102 ms[39m
+[35m[39m
+2022-11-28 20:50:01 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.169 ms[39m
+[35m[39m
+2022-11-28 20:50:01 [35mhttp[39m: [35mPOST /login 200 357 - 67.693 ms[39m
+[35m[39m
+2022-11-28 20:54:34 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.200 ms[39m
+[35m[39m
+2022-11-28 20:54:34 [35mhttp[39m: [35mPOST /login 200 357 - 65.184 ms[39m
+[35m[39m
+2022-11-28 21:20:04 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.383 ms[39m
+[35m[39m
+2022-11-28 21:20:04 [35mhttp[39m: [35mPOST /login 200 357 - 69.617 ms[39m
+[35m[39m
+2022-11-28 21:28:06 [35mhttp[39m: [35mOPTIONS /register 204 0 - 0.236 ms[39m
+[35m[39m
+2022-11-28 21:28:06 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.203 ms[39m
+[35m[39m
+2022-11-28 21:28:06 [35mhttp[39m: [35mPOST /register 401 79 - 9.540 ms[39m
+[35m[39m
+2022-11-28 21:28:06 [35mhttp[39m: [35mPOST /login 200 357 - 75.418 ms[39m
+[35m[39m
+2022-11-28 21:28:51 [35mhttp[39m: [35mOPTIONS /register 204 0 - 0.253 ms[39m
+[35m[39m
+2022-11-28 21:28:51 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.298 ms[39m
+[35m[39m
+2022-11-28 21:28:51 [35mhttp[39m: [35mPOST /register 401 79 - 7.662 ms[39m
+[35m[39m
+2022-11-28 21:28:51 [35mhttp[39m: [35mPOST /login 200 357 - 73.588 ms[39m
+[35m[39m
+2022-11-28 21:29:20 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.228 ms[39m
+[35m[39m
+2022-11-28 21:29:21 [35mhttp[39m: [35mPOST /login 401 91 - 4.021 ms[39m
+[35m[39m
+2022-11-28 21:29:26 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.154 ms[39m
+[35m[39m
+2022-11-28 21:29:26 [35mhttp[39m: [35mPOST /login 401 91 - 1.779 ms[39m
+[35m[39m
+2022-11-28 21:29:27 [35mhttp[39m: [35mPOST /login 401 91 - 1.761 ms[39m
+[35m[39m
+2022-11-28 21:30:50 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.229 ms[39m
+[35m[39m
+2022-11-28 21:30:50 [35mhttp[39m: [35mPOST /login 401 91 - 3.596 ms[39m
+[35m[39m
+2022-11-28 21:31:25 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.145 ms[39m
+[35m[39m
+2022-11-28 21:31:25 [35mhttp[39m: [35mPOST /login 401 91 - 4.702 ms[39m
+[35m[39m
+2022-11-28 21:34:01 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.141 ms[39m
+[35m[39m
+2022-11-28 21:34:01 [35mhttp[39m: [35mPOST /login 401 91 - 2.473 ms[39m
+[35m[39m
+2022-11-28 21:46:06 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.247 ms[39m
+[35m[39m
+2022-11-28 21:46:06 [35mhttp[39m: [35mPOST /login 200 357 - 62.476 ms[39m
+[35m[39m
+2022-11-28 21:46:49 [35mhttp[39m: [35mOPTIONS /register 204 0 - 0.423 ms[39m
+[35m[39m
+2022-11-28 21:46:49 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.146 ms[39m
+[35m[39m
+2022-11-28 21:46:49 [35mhttp[39m: [35mPOST /login 401 91 - 4.579 ms[39m
+[35m[39m
+2022-11-28 21:46:49 [35mhttp[39m: [35mPOST /register 200 85 - 78.207 ms[39m
+[35m[39m
+2022-11-28 21:48:41 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.301 ms[39m
+[35m[39m
+2022-11-28 21:48:41 [35mhttp[39m: [35mPOST /login 200 357 - 71.178 ms[39m
+[35m[39m
+2022-11-28 21:49:56 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.112 ms[39m
+[35m[39m
+2022-11-28 21:49:56 [35mhttp[39m: [35mPOST /login 200 357 - 55.433 ms[39m
+[35m[39m
+2022-11-28 21:51:50 [35mhttp[39m: [35mOPTIONS /register 204 0 - 0.387 ms[39m
+[35m[39m
+2022-11-28 21:51:50 [35mhttp[39m: [35mPOST /register 200 85 - 66.962 ms[39m
+[35m[39m
+2022-11-28 21:52:17 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.413 ms[39m
+[35m[39m
+2022-11-28 21:52:17 [35mhttp[39m: [35mPOST /login 401 91 - 2.079 ms[39m
+[35m[39m
+2022-11-28 21:52:32 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.409 ms[39m
+[35m[39m
+2022-11-28 21:52:32 [35mhttp[39m: [35mPOST /login 200 357 - 67.390 ms[39m
+[35m[39m
+2022-11-28 21:55:38 [35mhttp[39m: [35mOPTIONS /register 204 0 - 0.205 ms[39m
+[35m[39m
+2022-11-28 21:55:38 [35mhttp[39m: [35mPOST /register 200 85 - 70.352 ms[39m
+[35m[39m
+2022-11-28 21:55:51 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.490 ms[39m
+[35m[39m
+2022-11-28 21:55:51 [35mhttp[39m: [35mPOST /login 200 361 - 64.666 ms[39m
+[35m[39m
+2022-11-28 21:58:02 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.125 ms[39m
+[35m[39m
+2022-11-28 21:58:02 [35mhttp[39m: [35mPOST /login 200 361 - 66.772 ms[39m
+[35m[39m
+2022-11-28 21:58:02 [35mhttp[39m: [35mPOST /login 200 361 - 67.196 ms[39m
+[35m[39m
+2022-11-28 21:58:20 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.262 ms[39m
+[35m[39m
+2022-11-28 21:58:20 [35mhttp[39m: [35mPOST /login 200 361 - 63.001 ms[39m
+[35m[39m
+2022-11-28 21:58:20 [35mhttp[39m: [35mPOST /login 200 361 - 67.163 ms[39m
+[35m[39m
+2022-11-28 21:58:37 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.132 ms[39m
+[35m[39m
+2022-11-28 21:58:37 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.110 ms[39m
+[35m[39m
+2022-11-28 21:58:37 [35mhttp[39m: [35mPOST /login 200 361 - 61.071 ms[39m
+[35m[39m
+2022-11-28 21:58:37 [35mhttp[39m: [35mPOST /login 200 361 - 62.293 ms[39m
+[35m[39m
+2022-11-29 14:40:46 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.197 ms[39m
+[35m[39m
+2022-11-29 14:40:47 [35mhttp[39m: [35mPOST /login 200 357 - 56.276 ms[39m
+[35m[39m
+2022-11-29 16:40:22 [35mhttp[39m: [35mOPTIONS /register 204 0 - 0.151 ms[39m
+[35m[39m
+2022-11-29 16:40:22 [35mhttp[39m: [35mPOST /register 200 85 - 62.425 ms[39m
+[35m[39m
+2022-11-29 16:44:54 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.392 ms[39m
+[35m[39m
+2022-11-29 16:44:54 [35mhttp[39m: [35mPOST /login 200 357 - 76.072 ms[39m
+[35m[39m
+2022-11-29 18:08:58 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-11-29 18:08:59 [33mwarn[39m: [33mMongoose default connection disconnected through app termination[39m
+2022-12-02 13:08:59 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 13:08:59 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 13:17:20 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-12-02 13:17:30 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 13:18:00 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-12-02 13:18:30 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 13:20:14 [35mhttp[39m: [35mOPTIONS /login 204 0 - 1.352 ms[39m
+[35m[39m
+2022-12-02 13:20:14 [35mhttp[39m: [35mPOST /login 401 91 - 19.071 ms[39m
+[35m[39m
+2022-12-02 13:26:40 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.679 ms[39m
+[35m[39m
+2022-12-02 13:26:40 [35mhttp[39m: [35mPOST /login 401 91 - 4.629 ms[39m
+[35m[39m
+2022-12-02 13:27:55 [35mhttp[39m: [35mOPTIONS /register 204 0 - 0.130 ms[39m
+[35m[39m
+2022-12-02 13:27:55 [35mhttp[39m: [35mPOST /register 200 85 - 572.656 ms[39m
+[35m[39m
+2022-12-02 13:28:06 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.749 ms[39m
+[35m[39m
+2022-12-02 13:28:07 [35mhttp[39m: [35mPOST /login 200 359 - 322.735 ms[39m
+[35m[39m
+2022-12-02 13:29:07 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.227 ms[39m
+[35m[39m
+2022-12-02 13:29:07 [35mhttp[39m: [35mPOST /login 200 359 - 57.514 ms[39m
+[35m[39m
+2022-12-02 13:47:02 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.371 ms[39m
+[35m[39m
+2022-12-02 13:47:02 [35mhttp[39m: [35mPOST /login 200 359 - 73.342 ms[39m
+[35m[39m
+2022-12-02 13:49:11 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.208 ms[39m
+[35m[39m
+2022-12-02 13:49:11 [35mhttp[39m: [35mPOST /login 200 359 - 61.295 ms[39m
+[35m[39m
+2022-12-02 13:55:30 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.742 ms[39m
+[35m[39m
+2022-12-02 13:55:31 [35mhttp[39m: [35mPOST /login 200 359 - 74.562 ms[39m
+[35m[39m
+2022-12-02 14:35:12 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.167 ms[39m
+[35m[39m
+2022-12-02 14:35:12 [35mhttp[39m: [35mPOST /login 200 359 - 56.679 ms[39m
+[35m[39m
+2022-12-02 14:58:11 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.313 ms[39m
+[35m[39m
+2022-12-02 14:58:11 [35mhttp[39m: [35mPOST /login 200 359 - 56.497 ms[39m
+[35m[39m
+2022-12-02 15:10:32 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 15:10:32 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 15:11:28 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 15:11:28 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 15:12:42 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 15:12:42 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 15:48:42 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 15:48:42 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 15:56:18 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 15:56:18 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 15:58:12 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 15:58:12 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 15:58:26 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 15:58:26 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 15:58:34 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 15:58:34 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 15:58:50 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 15:58:50 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 16:02:15 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 16:02:15 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 16:14:29 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 16:14:29 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 16:16:34 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 16:16:34 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 16:17:14 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 16:17:14 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 16:17:48 [35mhttp[39m: [35mOPTIONS /login 204 0 - 1.549 ms[39m
+[35m[39m
+2022-12-02 16:17:48 [35mhttp[39m: [35mPOST /login 200 359 - 86.408 ms[39m
+[35m[39m
+2022-12-02 16:19:05 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.235 ms[39m
+[35m[39m
+2022-12-02 16:19:05 [35mhttp[39m: [35mPOST /login 200 359 - 59.787 ms[39m
+[35m[39m
+2022-12-02 16:21:05 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 16:21:05 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 16:21:50 [35mhttp[39m: [35mOPTIONS /login 204 0 - 3.391 ms[39m
+[35m[39m
+2022-12-02 16:21:50 [35mhttp[39m: [35mPOST /login 200 359 - 75.774 ms[39m
+[35m[39m
+2022-12-02 16:22:34 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 16:22:34 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 16:22:51 [35mhttp[39m: [35mOPTIONS /login 204 0 - 6.797 ms[39m
+[35m[39m
+2022-12-02 16:22:51 [35mhttp[39m: [35mPOST /login 200 359 - 75.092 ms[39m
+[35m[39m
+2022-12-02 16:24:47 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 16:24:47 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 16:25:07 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 16:25:07 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 16:25:54 [35mhttp[39m: [35mOPTIONS /login 204 0 - 3.605 ms[39m
+[35m[39m
+2022-12-02 16:25:54 [35mhttp[39m: [35mPOST /login 200 359 - 74.830 ms[39m
+[35m[39m
+2022-12-02 16:31:42 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.331 ms[39m
+[35m[39m
+2022-12-02 16:31:42 [35mhttp[39m: [35mPOST /login 200 359 - 68.073 ms[39m
+[35m[39m
+2022-12-02 16:36:40 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 16:36:40 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 16:37:27 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 16:37:27 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 16:43:20 [35mhttp[39m: [35mOPTIONS /login 204 0 - 1.930 ms[39m
+[35m[39m
+2022-12-02 16:43:20 [35mhttp[39m: [35mPOST /login 401 91 - 13.152 ms[39m
+[35m[39m
+2022-12-02 17:11:37 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 17:11:37 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 17:11:42 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 17:11:42 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 17:12:12 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 17:12:12 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 17:12:33 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 17:12:33 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 17:16:03 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 17:16:03 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 17:18:37 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 17:18:37 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 17:42:22 [35mhttp[39m: [35mOPTIONS /login 204 0 - 2.752 ms[39m
+[35m[39m
+2022-12-02 17:42:22 [35mhttp[39m: [35mPOST /login 200 359 - 108.334 ms[39m
+[35m[39m
+2022-12-02 17:46:02 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.634 ms[39m
+[35m[39m
+2022-12-02 17:46:02 [35mhttp[39m: [35mPOST /login 200 359 - 64.084 ms[39m
+[35m[39m
+2022-12-02 17:47:08 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.151 ms[39m
+[35m[39m
+2022-12-02 17:47:08 [35mhttp[39m: [35mPOST /login 200 359 - 58.978 ms[39m
+[35m[39m
+2022-12-02 17:47:28 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.558 ms[39m
+[35m[39m
+2022-12-02 17:47:28 [35mhttp[39m: [35mPOST /login 200 359 - 90.083 ms[39m
+[35m[39m
+2022-12-02 17:47:56 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.308 ms[39m
+[35m[39m
+2022-12-02 17:47:56 [35mhttp[39m: [35mPOST /login 200 359 - 61.623 ms[39m
+[35m[39m
+2022-12-02 17:49:08 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.347 ms[39m
+[35m[39m
+2022-12-02 17:49:08 [35mhttp[39m: [35mPOST /login 200 359 - 68.362 ms[39m
+[35m[39m
+2022-12-02 18:09:22 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 18:09:22 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 18:09:28 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 18:09:28 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 18:22:43 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 18:22:43 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 18:33:58 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 1.526 ms[39m
+[35m[39m
+2022-12-02 18:33:58 [35mhttp[39m: [35mPOST /checkToken 401 102 - 1.534 ms[39m
+[35m[39m
+2022-12-02 18:33:58 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.312 ms[39m
+[35m[39m
+2022-12-02 18:33:58 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.494 ms[39m
+[35m[39m
+2022-12-02 18:34:09 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.135 ms[39m
+[35m[39m
+2022-12-02 18:34:09 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.150 ms[39m
+[35m[39m
+2022-12-02 18:34:09 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.344 ms[39m
+[35m[39m
+2022-12-02 18:34:09 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.401 ms[39m
+[35m[39m
+2022-12-02 18:36:16 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.167 ms[39m
+[35m[39m
+2022-12-02 18:36:16 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.342 ms[39m
+[35m[39m
+2022-12-02 18:36:16 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.271 ms[39m
+[35m[39m
+2022-12-02 18:36:25 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.147 ms[39m
+[35m[39m
+2022-12-02 18:36:25 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.384 ms[39m
+[35m[39m
+2022-12-02 18:36:25 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.214 ms[39m
+[35m[39m
+2022-12-02 18:36:34 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.175 ms[39m
+[35m[39m
+2022-12-02 18:36:34 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.355 ms[39m
+[35m[39m
+2022-12-02 18:36:34 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.381 ms[39m
+[35m[39m
+2022-12-02 18:36:38 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.294 ms[39m
+[35m[39m
+2022-12-02 18:36:38 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.253 ms[39m
+[35m[39m
+2022-12-02 18:38:38 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.132 ms[39m
+[35m[39m
+2022-12-02 18:38:38 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.468 ms[39m
+[35m[39m
+2022-12-02 18:38:38 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.431 ms[39m
+[35m[39m
+2022-12-02 18:38:38 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.418 ms[39m
+[35m[39m
+2022-12-02 18:39:12 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.121 ms[39m
+[35m[39m
+2022-12-02 18:39:12 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.257 ms[39m
+[35m[39m
+2022-12-02 18:39:12 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.408 ms[39m
+[35m[39m
+2022-12-02 18:41:17 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.147 ms[39m
+[35m[39m
+2022-12-02 18:41:17 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.353 ms[39m
+[35m[39m
+2022-12-02 18:41:17 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.299 ms[39m
+[35m[39m
+2022-12-02 18:42:03 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.207 ms[39m
+[35m[39m
+2022-12-02 18:42:03 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.313 ms[39m
+[35m[39m
+2022-12-02 18:42:03 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.377 ms[39m
+[35m[39m
+2022-12-02 18:43:40 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.225 ms[39m
+[35m[39m
+2022-12-02 18:43:40 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.254 ms[39m
+[35m[39m
+2022-12-02 18:43:40 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.267 ms[39m
+[35m[39m
+2022-12-02 18:44:04 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.139 ms[39m
+[35m[39m
+2022-12-02 18:44:04 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.288 ms[39m
+[35m[39m
+2022-12-02 18:44:04 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.370 ms[39m
+[35m[39m
+2022-12-02 18:44:29 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.181 ms[39m
+[35m[39m
+2022-12-02 18:44:29 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.342 ms[39m
+[35m[39m
+2022-12-02 18:44:29 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.314 ms[39m
+[35m[39m
+2022-12-02 18:48:54 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.147 ms[39m
+[35m[39m
+2022-12-02 18:48:54 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.302 ms[39m
+[35m[39m
+2022-12-02 18:48:54 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.246 ms[39m
+[35m[39m
+2022-12-02 18:59:04 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.283 ms[39m
+[35m[39m
+2022-12-02 18:59:04 [35mhttp[39m: [35mPOST /login 200 359 - 81.474 ms[39m
+[35m[39m
+2022-12-02 18:59:04 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.198 ms[39m
+[35m[39m
+2022-12-02 18:59:04 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.357 ms[39m
+[35m[39m
+2022-12-02 18:59:04 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.560 ms[39m
+[35m[39m
+2022-12-02 18:59:20 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.165 ms[39m
+[35m[39m
+2022-12-02 18:59:20 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.483 ms[39m
+[35m[39m
+2022-12-02 18:59:20 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.563 ms[39m
+[35m[39m
+2022-12-02 18:59:51 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.123 ms[39m
+[35m[39m
+2022-12-02 18:59:51 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.405 ms[39m
+[35m[39m
+2022-12-02 18:59:51 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.362 ms[39m
+[35m[39m
+2022-12-02 19:02:04 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.170 ms[39m
+[35m[39m
+2022-12-02 19:02:04 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.286 ms[39m
+[35m[39m
+2022-12-02 19:02:04 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.281 ms[39m
+[35m[39m
+2022-12-02 19:02:48 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.124 ms[39m
+[35m[39m
+2022-12-02 19:02:48 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.241 ms[39m
+[35m[39m
+2022-12-02 19:02:48 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.335 ms[39m
+[35m[39m
+2022-12-02 19:02:52 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.428 ms[39m
+[35m[39m
+2022-12-02 19:02:52 [35mhttp[39m: [35mPOST /checkToken 401 102 - 0.431 ms[39m
+[35m[39m
+2022-12-02 19:03:38 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 19:03:38 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 19:03:39 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 1.722 ms[39m
+[35m[39m
+2022-12-02 19:03:39 [35mhttp[39m: [35mPOST /checkToken 401 102 - 13.744 ms[39m
+[35m[39m
+2022-12-02 19:03:39 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.263 ms[39m
+[35m[39m
+2022-12-02 19:03:39 [35mhttp[39m: [35mPOST /checkToken 401 102 - 6.672 ms[39m
+[35m[39m
+2022-12-02 19:04:32 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.127 ms[39m
+[35m[39m
+2022-12-02 19:04:32 [35mhttp[39m: [35mPOST /checkToken 401 102 - 4.224 ms[39m
+[35m[39m
+2022-12-02 19:04:32 [35mhttp[39m: [35mPOST /checkToken 401 102 - 7.727 ms[39m
+[35m[39m
+2022-12-02 19:05:20 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 19:05:20 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 19:05:28 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 19:05:28 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 19:05:40 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 1.075 ms[39m
+[35m[39m
+2022-12-02 19:05:40 [35mhttp[39m: [35mPOST /checkToken 200 353 - 5.246 ms[39m
+[35m[39m
+2022-12-02 19:05:40 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.529 ms[39m
+[35m[39m
+2022-12-02 19:05:40 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.716 ms[39m
+[35m[39m
+2022-12-02 19:06:18 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-02 19:06:18 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-02 19:43:47 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 1.650 ms[39m
+[35m[39m
+2022-12-02 19:43:47 [35mhttp[39m: [35mPOST /checkToken 200 353 - 5.940 ms[39m
+[35m[39m
+2022-12-02 19:43:47 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.488 ms[39m
+[35m[39m
+2022-12-02 19:43:47 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.815 ms[39m
+[35m[39m
+2022-12-02 19:43:47 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.674 ms[39m
+[35m[39m
+2022-12-02 19:43:47 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.530 ms[39m
+[35m[39m
+2022-12-02 19:44:11 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.156 ms[39m
+[35m[39m
+2022-12-02 19:44:11 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.157 ms[39m
+[35m[39m
+2022-12-02 19:44:11 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.447 ms[39m
+[35m[39m
+2022-12-02 19:44:11 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.511 ms[39m
+[35m[39m
+2022-12-02 19:45:17 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.197 ms[39m
+[35m[39m
+2022-12-02 19:45:17 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.677 ms[39m
+[35m[39m
+2022-12-02 19:45:17 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.626 ms[39m
+[35m[39m
+2022-12-02 19:46:23 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.161 ms[39m
+[35m[39m
+2022-12-02 19:46:23 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.834 ms[39m
+[35m[39m
+2022-12-02 19:46:23 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.584 ms[39m
+[35m[39m
+2022-12-02 19:47:37 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.170 ms[39m
+[35m[39m
+2022-12-02 19:47:37 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.584 ms[39m
+[35m[39m
+2022-12-02 19:47:37 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.665 ms[39m
+[35m[39m
+2022-12-02 19:47:56 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.229 ms[39m
+[35m[39m
+2022-12-02 19:47:56 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.439 ms[39m
+[35m[39m
+2022-12-02 19:47:56 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.553 ms[39m
+[35m[39m
+2022-12-02 19:48:11 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.223 ms[39m
+[35m[39m
+2022-12-02 19:48:11 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.619 ms[39m
+[35m[39m
+2022-12-02 19:48:11 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.563 ms[39m
+[35m[39m
+2022-12-02 19:48:22 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.173 ms[39m
+[35m[39m
+2022-12-02 19:48:22 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.585 ms[39m
+[35m[39m
+2022-12-02 19:48:22 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.103 ms[39m
+[35m[39m
+2022-12-02 19:48:27 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.552 ms[39m
+[35m[39m
+2022-12-02 19:48:27 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.652 ms[39m
+[35m[39m
+2022-12-02 19:49:06 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.423 ms[39m
+[35m[39m
+2022-12-02 19:49:06 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.791 ms[39m
+[35m[39m
+2022-12-02 19:49:06 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.542 ms[39m
+[35m[39m
+2022-12-02 19:49:07 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.447 ms[39m
+[35m[39m
+2022-12-02 19:49:07 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.085 ms[39m
+[35m[39m
+2022-12-02 19:50:34 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.173 ms[39m
+[35m[39m
+2022-12-02 19:50:34 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.171 ms[39m
+[35m[39m
+2022-12-02 19:50:34 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.545 ms[39m
+[35m[39m
+2022-12-02 19:51:28 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.155 ms[39m
+[35m[39m
+2022-12-02 19:51:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.070 ms[39m
+[35m[39m
+2022-12-02 19:51:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.560 ms[39m
+[35m[39m
+2022-12-02 19:52:43 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.183 ms[39m
+[35m[39m
+2022-12-02 19:52:43 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.307 ms[39m
+[35m[39m
+2022-12-02 19:52:43 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.876 ms[39m
+[35m[39m
+2022-12-02 19:52:43 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.909 ms[39m
+[35m[39m
+2022-12-02 19:52:44 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.453 ms[39m
+[35m[39m
+2022-12-02 19:52:44 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.457 ms[39m
+[35m[39m
+2022-12-02 19:53:50 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.154 ms[39m
+[35m[39m
+2022-12-02 19:53:50 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.578 ms[39m
+[35m[39m
+2022-12-02 19:53:50 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.750 ms[39m
+[35m[39m
+2022-12-02 19:54:35 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.184 ms[39m
+[35m[39m
+2022-12-02 19:54:35 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.565 ms[39m
+[35m[39m
+2022-12-02 19:54:35 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.611 ms[39m
+[35m[39m
+2022-12-02 19:54:49 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.274 ms[39m
+[35m[39m
+2022-12-02 19:54:49 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.131 ms[39m
+[35m[39m
+2022-12-02 19:54:49 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.777 ms[39m
+[35m[39m
+2022-12-02 19:55:56 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.661 ms[39m
+[35m[39m
+2022-12-02 19:55:56 [35mhttp[39m: [35mPOST /login 401 73 - 79.776 ms[39m
+[35m[39m
+2022-12-02 19:56:03 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.408 ms[39m
+[35m[39m
+2022-12-02 19:56:03 [35mhttp[39m: [35mPOST /login 200 359 - 64.098 ms[39m
+[35m[39m
+2022-12-02 19:56:03 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.111 ms[39m
+[35m[39m
+2022-12-02 19:56:03 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.113 ms[39m
+[35m[39m
+2022-12-02 19:56:03 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.623 ms[39m
+[35m[39m
+2022-12-02 19:56:03 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.708 ms[39m
+[35m[39m
+2022-12-02 19:56:07 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.498 ms[39m
+[35m[39m
+2022-12-02 19:56:07 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.534 ms[39m
+[35m[39m
+2022-12-02 19:59:00 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.124 ms[39m
+[35m[39m
+2022-12-02 19:59:00 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.311 ms[39m
+[35m[39m
+2022-12-02 19:59:00 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.455 ms[39m
+[35m[39m
+2022-12-02 20:09:12 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.137 ms[39m
+[35m[39m
+2022-12-02 20:09:12 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.559 ms[39m
+[35m[39m
+2022-12-02 20:09:12 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.741 ms[39m
+[35m[39m
+2022-12-02 20:09:14 [35mhttp[39m: [35mPOST /checkToken 200 353 - 2.115 ms[39m
+[35m[39m
+2022-12-02 20:09:14 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.601 ms[39m
+[35m[39m
+2022-12-02 20:09:21 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.090 ms[39m
+[35m[39m
+2022-12-02 20:09:21 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.337 ms[39m
+[35m[39m
+2022-12-02 20:09:21 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.271 ms[39m
+[35m[39m
+2022-12-02 20:22:04 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.118 ms[39m
+[35m[39m
+2022-12-02 20:22:04 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.422 ms[39m
+[35m[39m
+2022-12-02 20:22:04 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.841 ms[39m
+[35m[39m
+2022-12-02 20:22:29 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.180 ms[39m
+[35m[39m
+2022-12-02 20:22:29 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.494 ms[39m
+[35m[39m
+2022-12-02 20:22:29 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.588 ms[39m
+[35m[39m
+2022-12-02 20:22:37 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.146 ms[39m
+[35m[39m
+2022-12-02 20:22:37 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.438 ms[39m
+[35m[39m
+2022-12-02 20:22:37 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.591 ms[39m
+[35m[39m
+2022-12-02 20:22:58 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.171 ms[39m
+[35m[39m
+2022-12-02 20:22:58 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.398 ms[39m
+[35m[39m
+2022-12-02 20:22:58 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.784 ms[39m
+[35m[39m
+2022-12-02 20:23:02 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.667 ms[39m
+[35m[39m
+2022-12-02 20:23:02 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.371 ms[39m
+[35m[39m
+2022-12-02 20:23:23 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.180 ms[39m
+[35m[39m
+2022-12-02 20:23:23 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.154 ms[39m
+[35m[39m
+2022-12-02 20:23:23 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.498 ms[39m
+[35m[39m
+2022-12-02 20:24:35 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.178 ms[39m
+[35m[39m
+2022-12-02 20:24:35 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.445 ms[39m
+[35m[39m
+2022-12-02 20:24:35 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.465 ms[39m
+[35m[39m
+2022-12-02 20:26:05 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.136 ms[39m
+[35m[39m
+2022-12-02 20:26:05 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.150 ms[39m
+[35m[39m
+2022-12-02 20:26:05 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.538 ms[39m
+[35m[39m
+2022-12-02 20:26:05 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.827 ms[39m
+[35m[39m
+2022-12-02 20:26:14 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.113 ms[39m
+[35m[39m
+2022-12-02 20:26:14 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.430 ms[39m
+[35m[39m
+2022-12-02 20:26:14 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.492 ms[39m
+[35m[39m
+2022-12-02 20:26:30 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.439 ms[39m
+[35m[39m
+2022-12-02 20:26:30 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.436 ms[39m
+[35m[39m
+2022-12-02 20:26:30 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.018 ms[39m
+[35m[39m
+2022-12-02 20:27:14 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.143 ms[39m
+[35m[39m
+2022-12-02 20:27:14 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.436 ms[39m
+[35m[39m
+2022-12-02 20:27:14 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.368 ms[39m
+[35m[39m
+2022-12-02 20:27:48 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.200 ms[39m
+[35m[39m
+2022-12-02 20:27:48 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.484 ms[39m
+[35m[39m
+2022-12-02 20:27:48 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.560 ms[39m
+[35m[39m
+2022-12-02 20:27:56 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.139 ms[39m
+[35m[39m
+2022-12-02 20:27:56 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.521 ms[39m
+[35m[39m
+2022-12-02 20:27:56 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.502 ms[39m
+[35m[39m
+2022-12-02 20:28:03 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.145 ms[39m
+[35m[39m
+2022-12-02 20:28:03 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.154 ms[39m
+[35m[39m
+2022-12-02 20:28:03 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.493 ms[39m
+[35m[39m
+2022-12-02 20:28:03 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.538 ms[39m
+[35m[39m
+2022-12-02 20:28:28 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.212 ms[39m
+[35m[39m
+2022-12-02 20:28:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.484 ms[39m
+[35m[39m
+2022-12-02 20:28:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.713 ms[39m
+[35m[39m
+2022-12-02 20:28:38 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.132 ms[39m
+[35m[39m
+2022-12-02 20:28:38 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.334 ms[39m
+[35m[39m
+2022-12-02 20:28:38 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.299 ms[39m
+[35m[39m
+2022-12-02 20:29:10 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.100 ms[39m
+[35m[39m
+2022-12-02 20:29:10 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.724 ms[39m
+[35m[39m
+2022-12-02 20:29:10 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.530 ms[39m
+[35m[39m
+2022-12-02 20:32:08 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.238 ms[39m
+[35m[39m
+2022-12-02 20:32:08 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.294 ms[39m
+[35m[39m
+2022-12-02 20:32:08 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.761 ms[39m
+[35m[39m
+2022-12-02 20:32:08 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.591 ms[39m
+[35m[39m
+2022-12-02 20:32:24 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.091 ms[39m
+[35m[39m
+2022-12-02 20:32:24 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.474 ms[39m
+[35m[39m
+2022-12-02 20:32:24 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.495 ms[39m
+[35m[39m
+2022-12-02 20:32:42 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.108 ms[39m
+[35m[39m
+2022-12-02 20:32:42 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.336 ms[39m
+[35m[39m
+2022-12-02 20:32:42 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.569 ms[39m
+[35m[39m
+2022-12-02 20:33:50 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.157 ms[39m
+[35m[39m
+2022-12-02 20:33:50 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.437 ms[39m
+[35m[39m
+2022-12-02 20:33:50 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.411 ms[39m
+[35m[39m
+2022-12-02 20:34:17 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.093 ms[39m
+[35m[39m
+2022-12-02 20:34:17 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.316 ms[39m
+[35m[39m
+2022-12-02 20:34:17 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.456 ms[39m
+[35m[39m
+2022-12-02 20:34:45 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.107 ms[39m
+[35m[39m
+2022-12-02 20:34:45 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.367 ms[39m
+[35m[39m
+2022-12-02 20:34:45 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.422 ms[39m
+[35m[39m
+2022-12-02 20:34:53 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.095 ms[39m
+[35m[39m
+2022-12-02 20:34:53 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.602 ms[39m
+[35m[39m
+2022-12-02 20:34:53 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.423 ms[39m
+[35m[39m
+2022-12-02 20:35:05 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.108 ms[39m
+[35m[39m
+2022-12-02 20:35:05 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.355 ms[39m
+[35m[39m
+2022-12-02 20:35:05 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.330 ms[39m
+[35m[39m
+2022-12-02 20:37:00 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.097 ms[39m
+[35m[39m
+2022-12-02 20:37:00 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.324 ms[39m
+[35m[39m
+2022-12-02 20:37:00 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.608 ms[39m
+[35m[39m
+2022-12-02 20:37:16 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.086 ms[39m
+[35m[39m
+2022-12-02 20:37:16 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.311 ms[39m
+[35m[39m
+2022-12-02 20:37:16 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.434 ms[39m
+[35m[39m
+2022-12-02 20:39:30 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.148 ms[39m
+[35m[39m
+2022-12-02 20:39:30 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.511 ms[39m
+[35m[39m
+2022-12-02 20:39:30 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.643 ms[39m
+[35m[39m
+2022-12-02 20:39:36 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.124 ms[39m
+[35m[39m
+2022-12-02 20:39:36 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.392 ms[39m
+[35m[39m
+2022-12-02 20:39:36 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.464 ms[39m
+[35m[39m
+2022-12-02 20:40:05 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.132 ms[39m
+[35m[39m
+2022-12-02 20:40:05 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.408 ms[39m
+[35m[39m
+2022-12-02 20:40:05 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.425 ms[39m
+[35m[39m
+2022-12-02 20:40:07 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.453 ms[39m
+[35m[39m
+2022-12-02 20:40:07 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.489 ms[39m
+[35m[39m
+2022-12-02 20:41:28 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.215 ms[39m
+[35m[39m
+2022-12-02 20:41:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.321 ms[39m
+[35m[39m
+2022-12-02 20:41:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.389 ms[39m
+[35m[39m
+2022-12-02 20:44:42 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.819 ms[39m
+[35m[39m
+2022-12-02 20:44:42 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.396 ms[39m
+[35m[39m
+2022-12-02 20:44:42 [35mhttp[39m: [35mPOST /checkToken 200 353 - 2.428 ms[39m
+[35m[39m
+2022-12-02 20:44:42 [35mhttp[39m: [35mPOST /checkToken 200 353 - 2.194 ms[39m
+[35m[39m
+2022-12-02 20:45:28 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.083 ms[39m
+[35m[39m
+2022-12-02 20:45:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.345 ms[39m
+[35m[39m
+2022-12-02 20:45:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.406 ms[39m
+[35m[39m
+2022-12-02 20:45:49 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.086 ms[39m
+[35m[39m
+2022-12-02 20:45:49 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.334 ms[39m
+[35m[39m
+2022-12-02 20:45:49 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.330 ms[39m
+[35m[39m
+2022-12-02 20:46:11 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.090 ms[39m
+[35m[39m
+2022-12-02 20:46:11 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.333 ms[39m
+[35m[39m
+2022-12-02 20:46:11 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.318 ms[39m
+[35m[39m
+2022-12-02 20:46:22 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.089 ms[39m
+[35m[39m
+2022-12-02 20:46:22 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.363 ms[39m
+[35m[39m
+2022-12-02 20:46:22 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.468 ms[39m
+[35m[39m
+2022-12-02 20:46:28 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.086 ms[39m
+[35m[39m
+2022-12-02 20:46:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.455 ms[39m
+[35m[39m
+2022-12-02 20:46:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.512 ms[39m
+[35m[39m
+2022-12-02 20:48:34 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.090 ms[39m
+[35m[39m
+2022-12-02 20:48:34 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.317 ms[39m
+[35m[39m
+2022-12-02 20:48:34 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.376 ms[39m
+[35m[39m
+2022-12-02 20:48:38 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.739 ms[39m
+[35m[39m
+2022-12-02 20:48:38 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.392 ms[39m
+[35m[39m
+2022-12-02 20:48:40 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.220 ms[39m
+[35m[39m
+2022-12-02 20:48:40 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.217 ms[39m
+[35m[39m
+2022-12-02 20:48:40 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.604 ms[39m
+[35m[39m
+2022-12-02 20:48:40 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.070 ms[39m
+[35m[39m
+2022-12-02 20:48:51 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 1.185 ms[39m
+[35m[39m
+2022-12-02 20:48:51 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.509 ms[39m
+[35m[39m
+2022-12-02 20:48:52 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.775 ms[39m
+[35m[39m
+2022-12-02 20:48:52 [35mhttp[39m: [35mPOST /checkToken 200 353 - 2.243 ms[39m
+[35m[39m
+2022-12-02 20:49:06 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.533 ms[39m
+[35m[39m
+2022-12-02 20:49:06 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.346 ms[39m
+[35m[39m
+2022-12-02 20:49:06 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.530 ms[39m
+[35m[39m
+2022-12-02 20:49:06 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.159 ms[39m
+[35m[39m
+2022-12-02 20:49:06 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.768 ms[39m
+[35m[39m
+2022-12-02 20:49:06 [35mhttp[39m: [35mPOST /checkToken 200 353 - 2.004 ms[39m
+[35m[39m
+2022-12-02 20:49:06 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.563 ms[39m
+[35m[39m
+2022-12-02 20:49:06 [35mhttp[39m: [35mPOST /checkToken 200 353 - 2.121 ms[39m
+[35m[39m
+2022-12-02 20:49:08 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.412 ms[39m
+[35m[39m
+2022-12-02 20:49:08 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.330 ms[39m
+[35m[39m
+2022-12-02 23:38:10 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-12-03 15:02:28 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-03 15:02:28 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-03 15:48:10 [35mhttp[39m: [35mOPTIONS /login 204 0 - 1.225 ms[39m
+[35m[39m
+2022-12-03 15:48:10 [35mhttp[39m: [35mPOST /login 200 359 - 242.165 ms[39m
+[35m[39m
+2022-12-03 15:48:10 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.243 ms[39m
+[35m[39m
+2022-12-03 15:48:10 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.133 ms[39m
+[35m[39m
+2022-12-03 15:48:10 [35mhttp[39m: [35mPOST /checkToken 200 353 - 2.141 ms[39m
+[35m[39m
+2022-12-03 15:48:10 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.864 ms[39m
+[35m[39m
+2022-12-03 15:52:40 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.103 ms[39m
+[35m[39m
+2022-12-03 15:52:40 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.409 ms[39m
+[35m[39m
+2022-12-03 15:52:40 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.537 ms[39m
+[35m[39m
+2022-12-03 15:53:16 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.112 ms[39m
+[35m[39m
+2022-12-03 15:53:16 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.508 ms[39m
+[35m[39m
+2022-12-03 15:53:16 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.437 ms[39m
+[35m[39m
+2022-12-03 15:53:27 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.139 ms[39m
+[35m[39m
+2022-12-03 15:53:27 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.574 ms[39m
+[35m[39m
+2022-12-03 15:53:27 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.465 ms[39m
+[35m[39m
+2022-12-03 15:53:35 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.209 ms[39m
+[35m[39m
+2022-12-03 15:53:35 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.566 ms[39m
+[35m[39m
+2022-12-03 15:53:35 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.547 ms[39m
+[35m[39m
+2022-12-03 15:53:41 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.185 ms[39m
+[35m[39m
+2022-12-03 15:53:41 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.565 ms[39m
+[35m[39m
+2022-12-03 15:53:41 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.526 ms[39m
+[35m[39m
+2022-12-03 15:54:11 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.104 ms[39m
+[35m[39m
+2022-12-03 15:54:11 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.361 ms[39m
+[35m[39m
+2022-12-03 15:54:11 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.474 ms[39m
+[35m[39m
+2022-12-03 15:54:41 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.144 ms[39m
+[35m[39m
+2022-12-03 15:54:41 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.584 ms[39m
+[35m[39m
+2022-12-03 15:54:41 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.588 ms[39m
+[35m[39m
+2022-12-03 15:55:03 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.182 ms[39m
+[35m[39m
+2022-12-03 15:55:03 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.494 ms[39m
+[35m[39m
+2022-12-03 15:55:03 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.448 ms[39m
+[35m[39m
+2022-12-03 15:55:20 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.160 ms[39m
+[35m[39m
+2022-12-03 15:55:20 [35mhttp[39m: [35mPOST /login 200 359 - 59.339 ms[39m
+[35m[39m
+2022-12-03 15:56:24 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.154 ms[39m
+[35m[39m
+2022-12-03 15:56:24 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.681 ms[39m
+[35m[39m
+2022-12-03 15:56:24 [35mhttp[39m: [35mPOST /checkToken 200 353 - 1.206 ms[39m
+[35m[39m
+2022-12-03 16:00:00 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.121 ms[39m
+[35m[39m
+2022-12-03 16:00:00 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.413 ms[39m
+[35m[39m
+2022-12-03 16:00:00 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.472 ms[39m
+[35m[39m
+2022-12-03 16:00:28 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.195 ms[39m
+[35m[39m
+2022-12-03 16:00:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.703 ms[39m
+[35m[39m
+2022-12-03 16:00:28 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.932 ms[39m
+[35m[39m
+2022-12-03 16:01:25 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.089 ms[39m
+[35m[39m
+2022-12-03 16:01:25 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.337 ms[39m
+[35m[39m
+2022-12-03 16:01:25 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.508 ms[39m
+[35m[39m
+2022-12-03 16:01:42 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.099 ms[39m
+[35m[39m
+2022-12-03 16:01:42 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.330 ms[39m
+[35m[39m
+2022-12-03 16:01:42 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.389 ms[39m
+[35m[39m
+2022-12-03 16:02:06 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.126 ms[39m
+[35m[39m
+2022-12-03 16:02:06 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.498 ms[39m
+[35m[39m
+2022-12-03 16:02:06 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.465 ms[39m
+[35m[39m
+2022-12-03 16:03:18 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.130 ms[39m
+[35m[39m
+2022-12-03 16:03:18 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.496 ms[39m
+[35m[39m
+2022-12-03 16:03:18 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.587 ms[39m
+[35m[39m
+2022-12-03 16:03:50 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.154 ms[39m
+[35m[39m
+2022-12-03 16:03:50 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.690 ms[39m
+[35m[39m
+2022-12-03 16:03:50 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.221 ms[39m
+[35m[39m
+2022-12-03 16:03:50 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.351 ms[39m
+[35m[39m
+2022-12-03 16:04:08 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.136 ms[39m
+[35m[39m
+2022-12-03 16:04:08 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.328 ms[39m
+[35m[39m
+2022-12-03 16:04:08 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.398 ms[39m
+[35m[39m
+2022-12-03 16:21:46 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.125 ms[39m
+[35m[39m
+2022-12-03 16:21:46 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.461 ms[39m
+[35m[39m
+2022-12-03 16:21:46 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.453 ms[39m
+[35m[39m
+2022-12-03 16:23:29 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.123 ms[39m
+[35m[39m
+2022-12-03 16:23:29 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.462 ms[39m
+[35m[39m
+2022-12-03 16:23:29 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.437 ms[39m
+[35m[39m
+2022-12-03 16:23:40 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.103 ms[39m
+[35m[39m
+2022-12-03 16:23:40 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.385 ms[39m
+[35m[39m
+2022-12-03 16:23:40 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.406 ms[39m
+[35m[39m
+2022-12-03 16:23:53 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.164 ms[39m
+[35m[39m
+2022-12-03 16:23:53 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.337 ms[39m
+[35m[39m
+2022-12-03 16:23:53 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.429 ms[39m
+[35m[39m
+2022-12-03 16:24:03 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.115 ms[39m
+[35m[39m
+2022-12-03 16:24:03 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.390 ms[39m
+[35m[39m
+2022-12-03 16:24:03 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.846 ms[39m
+[35m[39m
+2022-12-03 16:30:25 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.095 ms[39m
+[35m[39m
+2022-12-03 16:30:25 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.371 ms[39m
+[35m[39m
+2022-12-03 16:30:25 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.432 ms[39m
+[35m[39m
+2022-12-03 16:31:23 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.089 ms[39m
+[35m[39m
+2022-12-03 16:31:23 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.418 ms[39m
+[35m[39m
+2022-12-03 16:31:23 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.446 ms[39m
+[35m[39m
+2022-12-03 16:33:11 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.091 ms[39m
+[35m[39m
+2022-12-03 16:33:11 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.436 ms[39m
+[35m[39m
+2022-12-03 16:33:11 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.444 ms[39m
+[35m[39m
+2022-12-03 16:36:21 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.100 ms[39m
+[35m[39m
+2022-12-03 16:36:21 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.412 ms[39m
+[35m[39m
+2022-12-03 16:36:21 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.554 ms[39m
+[35m[39m
+2022-12-03 16:36:29 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.171 ms[39m
+[35m[39m
+2022-12-03 16:36:29 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.417 ms[39m
+[35m[39m
+2022-12-03 16:36:29 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.478 ms[39m
+[35m[39m
+2022-12-03 16:36:43 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.086 ms[39m
+[35m[39m
+2022-12-03 16:36:43 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.361 ms[39m
+[35m[39m
+2022-12-03 16:36:43 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.329 ms[39m
+[35m[39m
+2022-12-03 16:37:15 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.126 ms[39m
+[35m[39m
+2022-12-03 16:37:15 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.448 ms[39m
+[35m[39m
+2022-12-03 16:37:15 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.497 ms[39m
+[35m[39m
+2022-12-03 16:39:17 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.239 ms[39m
+[35m[39m
+2022-12-03 16:39:17 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.540 ms[39m
+[35m[39m
+2022-12-03 16:39:17 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.132 ms[39m
+[35m[39m
+2022-12-03 16:39:17 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.509 ms[39m
+[35m[39m
+2022-12-03 16:39:19 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.445 ms[39m
+[35m[39m
+2022-12-03 16:39:19 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.346 ms[39m
+[35m[39m
+2022-12-03 16:39:29 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.429 ms[39m
+[35m[39m
+2022-12-03 16:39:29 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.761 ms[39m
+[35m[39m
+2022-12-03 16:39:29 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.289 ms[39m
+[35m[39m
+2022-12-03 16:39:29 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.843 ms[39m
+[35m[39m
+2022-12-03 16:42:07 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.090 ms[39m
+[35m[39m
+2022-12-03 16:42:07 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.696 ms[39m
+[35m[39m
+2022-12-03 16:42:07 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.319 ms[39m
+[35m[39m
+2022-12-03 16:45:00 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.109 ms[39m
+[35m[39m
+2022-12-03 16:45:00 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.310 ms[39m
+[35m[39m
+2022-12-03 16:45:00 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.410 ms[39m
+[35m[39m
+2022-12-03 16:45:18 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.094 ms[39m
+[35m[39m
+2022-12-03 16:45:18 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.332 ms[39m
+[35m[39m
+2022-12-03 16:45:18 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.291 ms[39m
+[35m[39m
+2022-12-03 16:45:33 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.198 ms[39m
+[35m[39m
+2022-12-03 16:45:33 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.357 ms[39m
+[35m[39m
+2022-12-03 16:45:33 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.496 ms[39m
+[35m[39m
+2022-12-03 16:45:49 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.105 ms[39m
+[35m[39m
+2022-12-03 16:45:49 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.340 ms[39m
+[35m[39m
+2022-12-03 16:45:49 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.351 ms[39m
+[35m[39m
+2022-12-06 13:47:16 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 13:47:16 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 17:11:40 [33mwarn[39m: [33mMongoose default connection disconnected[39m
