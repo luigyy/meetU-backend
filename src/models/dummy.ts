@@ -42,15 +42,15 @@ const users: UserInterface[] = [
   },
 ];
 
-function* saveUsers(): async {
+(function* saveUsers(): async {
   for (var i = 0; i < users.length; i++) {
+    console.log("test");
+    const newUser = new Users(users[i]);
     try {
-      const newUser = new Users(users[i]);
-      await newUser.save();
+      const res = await newUser.save();
       console.log("User " + users[i].name + " save successfully!");
     } catch (err) {
       console.log(err);
     }
   }
-}
-saveUsers();
+})();

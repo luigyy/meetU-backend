@@ -2439,3 +2439,37 @@
 [35m[39m
 2022-12-06 18:21:09 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.774 ms[39m
 [35m[39m
+2022-12-06 18:26:07 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 18:26:07 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 18:26:39 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 18:26:39 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 18:26:49 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 18:26:49 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:21:43 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:21:43 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:22:04 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:22:04 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:22:21 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:22:21 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:23:01 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:23:01 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:23:24 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:23:24 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:23:36 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:23:36 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:23:54 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:23:54 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:24:02 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:24:02 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:24:14 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:24:14 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:24:28 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:24:28 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:24:41 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:24:41 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:24:54 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 19:24:54 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 19:34:50 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-12-06 19:34:50 [33mwarn[39m: [33mMongoose default connection disconnected through app termination[39m
+2022-12-07 18:18:55 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-07 18:18:56 [32minfo[39m: [32mSuccessfully connected to database[39m
