@@ -2419,3 +2419,23 @@
 2022-12-06 13:47:16 [32minfo[39m: [32mListening on port 5000[39m
 2022-12-06 13:47:16 [32minfo[39m: [32mSuccessfully connected to database[39m
 2022-12-06 17:11:40 [33mwarn[39m: [33mMongoose default connection disconnected[39m
+2022-12-06 18:19:14 [32minfo[39m: [32mListening on port 5000[39m
+2022-12-06 18:19:14 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-12-06 18:20:38 [35mhttp[39m: [35mOPTIONS /login 204 0 - 5.520 ms[39m
+[35m[39m
+2022-12-06 18:20:38 [35mhttp[39m: [35mPOST /login 401 91 - 22.811 ms[39m
+[35m[39m
+2022-12-06 18:20:55 [35mhttp[39m: [35mOPTIONS /register 204 0 - 0.227 ms[39m
+[35m[39m
+2022-12-06 18:20:56 [35mhttp[39m: [35mPOST /register 200 85 - 1113.933 ms[39m
+[35m[39m
+2022-12-06 18:21:09 [35mhttp[39m: [35mOPTIONS /login 204 0 - 0.122 ms[39m
+[35m[39m
+2022-12-06 18:21:09 [35mhttp[39m: [35mPOST /login 200 359 - 56.471 ms[39m
+[35m[39m
+2022-12-06 18:21:09 [35mhttp[39m: [35mOPTIONS /checkToken 204 0 - 0.132 ms[39m
+[35m[39m
+2022-12-06 18:21:09 [35mhttp[39m: [35mPOST /checkToken 200 353 - 2.366 ms[39m
+[35m[39m
+2022-12-06 18:21:09 [35mhttp[39m: [35mPOST /checkToken 200 353 - 0.774 ms[39m
+[35m[39m

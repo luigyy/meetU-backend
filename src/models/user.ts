@@ -1,25 +1,25 @@
-import UserInterface from '../interfaces/user';
-import mongoose, { Schema } from 'mongoose';
-import bcrypt from 'bcrypt';
-import userRoleEnum from '../interfaces/userRole';
+import UserInterface from "../interfaces/user";
+import mongoose, { Schema } from "mongoose";
+import bcrypt from "bcrypt";
+import userRoleEnum from "../interfaces/userRole";
 
 const salt: number = 10;
 
-
-const UserSchema: Schema<UserInterface> = new Schema({
-    name: { 
+const UserSchema: Schema<UserInterface> = new Schema(
+  {
+    name: {
       type: String,
       min: 3,
       max: 20,
       trim: true,
-      required: true
+      required: true,
     },
-    lastName:{
+    lastName: {
       type: String,
       min: 3,
       max: 20,
       trim: true,
-      required: true
+      required: true,
     },
     email: {
       type: String,
@@ -27,48 +27,83 @@ const UserSchema: Schema<UserInterface> = new Schema({
       max: 40,
       trim: true,
       required: true,
-      unique: [true, 'Email already exists'],
-      match: [/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/, 'Please fill a valid email address']
-    }, 
+      unique: [true, "Email already exists"],
+      match: [
+        /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/,
+        "Please fill a valid email address",
+      ],
+    },
     role: {
       type: String,
       enum: Object.values(userRoleEnum),
       default: userRoleEnum.USER,
-      required: true
+      required: true,
     },
     password: {
       type: String,
       min: 5,
       max: 40,
-    } 
+    },
+    profileImgURL: {
+      type: String,
+    },
+    sex: {
+      type: String,
+    },
+    university: {
+      type: Array,
+    },
+    major: {
+      type: String,
+    },
+    description: {
+      type: String,
+    },
+    cards: {
+      type: Array,
+    },
+    city: {
+      type: String,
+    },
+    slogan: {
+      type: String,
+    },
+    hobbies: {
+      type: String,
+    },
+    idealFirstDate: {
+      type: String,
+    },
   },
   { timestamps: true }
-); 
+);
 
 //hash password before saving
-UserSchema.pre('save', async function (next) {
-  if (!this.isModified('password')) return next();
+UserSchema.pre("save", async function (next) {
+  if (!this.isModified("password")) return next();
 
-  const thisObj = (this as UserInterface);
+  const thisObj = this as UserInterface;
   try {
-    thisObj.password = await bcrypt.hash(thisObj.password, salt); 
+    thisObj.password = await bcrypt.hash(thisObj.password, salt);
     return next();
-  }catch(err) {
+  } catch (err) {
     return next(err);
   }
 });
 
 //method has to be awaited when use
-UserSchema.methods.comparePasswords = function (candidatePassword: string): Promise<boolean> {
+UserSchema.methods.comparePasswords = function (
+  candidatePassword: string
+): Promise<boolean> {
   return bcrypt.compare(candidatePassword, this.password);
 };
 
 //do not spit password out when retrieving user
-UserSchema.set('toJSON', {
-  transform: function(_: any, ret: any) {
-        delete ret['password'];
-        return ret;
-    }
-})
+UserSchema.set("toJSON", {
+  transform: function (_: any, ret: any) {
+    delete ret["password"];
+    return ret;
+  },
+});
 
-export default mongoose.model<UserInterface>('User', UserSchema);
+export default mongoose.model<UserInterface>("User", UserSchema);
