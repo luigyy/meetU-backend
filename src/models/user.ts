@@ -44,6 +44,10 @@ const UserSchema: Schema<UserInterface> = new Schema(
       min: 5,
       max: 40,
     },
+    matches: {
+      type: mongoose.Types.ObjectId,
+      ref: "matches",
+    },
     profileImgURL: {
       type: String,
     },
