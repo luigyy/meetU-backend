@@ -14,8 +14,8 @@ const { MISSING_TOKEN, INVALID_TOKEN, } = statusCodes_1.default;
 //Also has an used in /controllers/authenticationController for validating token
 //if user already has one in route /checkToken.
 const checkToken = (req, res, next) => {
-    //Get the jwt token from the head
-    const token = req.headers["auth"];
+    //Get the jwt token from the header
+    const token = req.body.headers["auth"];
     if (!token)
         return next(new HttpException_1.default(MISSING_TOKEN));
     let jwtPayload;
@@ -31,7 +31,7 @@ const checkToken = (req, res, next) => {
     //We want to send a new token on every request
     const { id, name, email } = jwtPayload;
     const newToken = signToken_1.default(id, name, email);
-    res.setHeader("token", newToken);
+    res.locals.token = newToken;
     //Call the next middleware or controller
     next();
 };
